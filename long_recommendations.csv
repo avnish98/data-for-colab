@@ -1,0 +1,11 @@
+,id,name,ticker,cmp,sharpe_ratio,matrix_decision,stock_outperform,quaterly_growth,sector,tdview_rec,finviz_rec,Uptrend,Trend Based Sentiment,Bollinger Bands,long_score,sorting_score
+4,68,CME Group Inc.,CME,216.26,0.72,2,1,-99.0,Financials,2.0,1,No Uprend,Bearish,None,4,1.7816091954022988
+10,162,Gilead Sciences,GILD,80.22,0.67,2,1,-99.0,Health Care,2.0,1,No Uprend,Not Available,Overbought,4,1.7241379310344829
+22,452,Wal-Mart Stores,WMT,117.23,0.58,2,1,-1.0,Consumer Staples,1.0,1,No Uprend,Not Available,None,4,1.6206896551724137
+21,421,Costco Wholesale Corp.,COST,311.34,0.15,2,1,-1.0,Consumer Staples,1.0,1,No Uprend,Not Available,None,4,1.1264367816091954
+6,101,Crown Castle International Corp.,CCI,160.82,0.91,2,1,-99.0,Real Estate,1.0,1,Uptrend,Bullish,None,4,1.0
+11,179,Humana Inc.,HUM,367.01,0.79,2,1,-99.0,Health Care,1.0,1,Uptrend,Bullish,None,4,0.8620689655172413
+5,69,CMS Energy,CMS,67.89,0.75,2,1,-99.0,Utilities,1.0,1,No Uprend,Not Available,None,4,0.8160919540229885
+17,306,Republic Services Inc,RSG,95.52,0.73,2,1,-99.0,Industrials,1.0,1,No Uprend,Not Available,None,4,0.7931034482758621
+14,255,NextEra Energy,NEE,271.82,0.61,2,1,-99.0,Utilities,1.0,1,No Uprend,Bearish,None,4,0.6551724137931034
+0,29,Ameren Corp,AEE,85.35,0.53,2,1,-99.0,Utilities,1.0,1,No Uprend,Bullish,None,4,0.5632183908045978
