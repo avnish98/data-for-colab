@@ -1,0 +1,1138 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2020,202003,March 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,124630000,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,19203000,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,18493000,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,124768000,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,28579000,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1364200,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,810484,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4908254,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7097040,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,108515602,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,285265344,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,8218063,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5682061,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10273113,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,239513592,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,4153559,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,61126430,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2298132,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,50861112,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3223035,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7297372,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6580350,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5674657,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,41865641,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,12713200,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,428315306,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,680888153,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,221019448,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,61392663,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,901441743,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,144450459,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,103472218,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,166337877,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,50795805,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,33163832,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,176825320,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,60053149,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,55214402,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,32866856,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1127753,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,61459996,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,133027470,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,591047212,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,41551296,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,372644974,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,855795959,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,73410616,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,27191779,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,37951561,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6575006,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,47171395,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8541828,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,6211398,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,90154,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,229088858,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,113357702,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,396401684,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,10198672,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19141597,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,8246198,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,32497691,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,29064857,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,6118459,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7700617,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,46581023,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3579490,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,480849619,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,148608797,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,61153822,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4204385,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,116895911,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6074490,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,11254000,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,126977357,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11077837,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3781271,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,9783178,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,106761380,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14871030,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,130175161,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,43103575,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,55245635,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,258494108,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,63744456,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4345521,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,92403392,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,281589,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,74344415,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,750892332,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,417280716,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,583185160,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,181234906,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,127361543,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,13985681,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,59397158,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,19373640,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,5732951,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,88924651,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,18958983,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,16057548,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,30203837,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,155540130,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,61831564,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,228040612,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,764053054,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,71681158,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11264119,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,26448118,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8087501,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,40777831,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,15622758,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,10251243,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,99807682,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11297065,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,27441636,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1090135,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3741900,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,15546643,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,296907,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,727561,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,10771255,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,480416,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,257823,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1763452,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,32895635,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1642858,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,140641809,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2710915,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4350759,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,79844837,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,62921066,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4423120,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,43938611,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2571751,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,932958,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,269429072,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,93930316,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2472713846,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1274478941,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,355089373,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,39508672,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,783881864,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,316015872,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,653462094,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,221438370,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3130560,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6814913,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,8383491,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,75119639,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,646642,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,401710003,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,72868840,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,33565538,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,74706785,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,193527622,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1672208,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,246457,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11063216,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2839813,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7693261,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,1083500,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,329009338,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,20561494,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,181691198,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,26730139,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,49963919,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,123156178,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,433148280,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,124727925,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,23435166,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,150417972,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,15898056,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8594092,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,72953275,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,298803,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,116896765,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,32284394,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,118623166,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,18624931,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,767033,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5493589,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,291802,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,159166140,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,942050,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,15552178,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2968060,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3225456,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,74895,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,109129654,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,19718045,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,45777189,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5304748,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2974184,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,201421,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,382980,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,532165,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,130007,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,13184255,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2039824,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,338172,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,63638564,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4238912,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6930509,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4453348,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,20110157,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2155045,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,47104914,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9427198,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,41754756,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,184798528,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,30018288,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,179240607,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8881929,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,116504985,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,25752030,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,34367934,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9497196,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5063300,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,93298410,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7095594,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,79381780,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,41320744,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1242151387,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,465192613,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,92775443,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,44830237,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,161281172,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,27857963,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,12381722,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,50384435,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,18147271,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,60608457,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,24045389,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,24951217,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,5821306,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14452861,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,80364782,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11552405,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,48429489,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7313983,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,64594410,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12136952,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6882982,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1366294,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,18544126,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1013689865,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,448011999,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,71101285,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,449134,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,8639694,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2123189,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,146597553,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,47013615,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,28527283,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5146805,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8715319,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,30868461,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,121748856,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3376236,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,671480,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1809034,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1209035,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1976690,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,64872073,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,185762978,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,73083173,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,51519620,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,30366937,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8861483,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3434792,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,126668341,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,977598118,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,390871812,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2447621471,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2424401,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19006521,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1640025,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,14056653,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,18731516,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,52227301,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,536019,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1761686,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,169382,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,129993754,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,371728257,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,130389873,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,25391152,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,9438710,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,85739867,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,73763366,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,62869653,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,7708562,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1114770,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,30440565,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3330001,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,12294684,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,10454654,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,25343683,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,100827668,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,481247491,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,48456021,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,525139143,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,13137819,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,72423451,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2943560,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,60349352,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,759008,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,518208,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3611798,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,114407,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,79764941,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,205344879,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,84668325,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,701883714,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1973588484,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,833799981,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,907176,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5475802,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1472171,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,297870,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,232214,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3517075,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,516202,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,43400667,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,61268464,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,171984164,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,720370351,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,27487143,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,172890699,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,40441103,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9032211,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,43045395,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,5484155,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,4702337,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,36802553,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5970221,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,5272567,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,58412193,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7477858,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,115712100,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8938200,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,449439881,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,41685295,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,104897484,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,33558411,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3668117,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3668310,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3150695,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1716127,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,190647775,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,744903123,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,69139503,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,15480163,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,238022807,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4977851,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,84163013,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,101035508,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,20691940,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,107109287,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,542744332,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1541061318,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2961007,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2934581,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,25869958,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,462523,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,32471479,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,80265846,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,82296651,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,220031228,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,822284415,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,71039620,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,34272647,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,262685419,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,4122090,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2952482,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,333027,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,4417107,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,191854316,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,8435526,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14635749,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,73654137,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,316817715,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,57924298,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17589581,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,18075787,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3718194,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1487003,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,45297475,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,16686160,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9142587,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,19326292,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,122748855,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,50957290,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,48324894,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,76110317,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,318751983,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,580707473,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1576682485,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,610720978,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,9288434,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,18151764,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7442218,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,425653,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,452724,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,76062768,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7561138,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,64056272,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1203148772,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,40734136,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,225763859,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,200027921,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,50003619,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17268593,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2985389,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,10634485,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,626407,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1119037,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,13003174,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1438995,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11343279,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7867081,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,62194919,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6642511,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,58518914,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14299537,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,164603707,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,43630043,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,32950259,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,46819623,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,20752812,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,202828262,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,224200031,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,21494328,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,23105104,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,174688780,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,68657237,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,726957525,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,413228399,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,823267508,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,73482398,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10655195,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,49836549,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6334357,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9531056,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,315553,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,739643,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,70402,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11426386,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,35592705,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,255599583,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1370598271,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,95860725,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6689899,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,50255906,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,109548,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1406248836,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,511774123,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,111744958,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3316894,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,12893361,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1213831,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2295398,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,22212608,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2058723,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1185754,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4213166,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,110377903,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,370359,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,439698871,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,44662109,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,104927738,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,15361100,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10701700,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,125562400,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,116178,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1425520,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,12390408,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,137693865,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,204364402,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,593922414,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,174505755,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,121725457,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,542063309,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,15939997,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,224646629,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,57898283,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2028898,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,36519274,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1796871,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,18073532,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,180026264,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,20598520,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,45912944,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4651396,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3979858,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,421459,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1081658,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,92255,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2614016,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,22225642,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2443037,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,44118247,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,184554917,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,23748767,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,4454272,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,263143278,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,45830230,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,368359,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2599232,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3319124,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,331469,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,16408449,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,84604264,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,9276506,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,169250699,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,431729168,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,150666658,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,142146124,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17193256,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,191557823,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,46266158,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2812842672,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,449355648,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1168282538,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11663988,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,819898,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1035512,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,430530,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,712607,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7913191,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1021430201,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,27500611,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,2144046,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2773137,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,56861342,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,333217951,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,79755706,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,67789074,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,45544085,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,119820120,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,53352938,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,16926378,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,106058208,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,160762168,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,713217934,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,763486663,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,172696631,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,111625085,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,115223631,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,180231189,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,763337107,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,48002684,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,68507856,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11987616,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,5213176,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,233276845,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,32168185,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,261956818,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,10977552,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3885049,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,16493523,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,71327988,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,50867945,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11058001,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,5798261,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,42939731,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4770048,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6458571,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,39003315,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,16782409,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,62671889,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,37107365,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,118040485,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,34611184,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,47643588,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,140257536,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,193294208,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,142369305,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,39942135,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,141625318,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,46404123,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,53817052,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,52253499,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,58163578,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,59597294,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,51042007,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,54484350,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,57324,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1213086,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,19525,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,355722,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2225254,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,51346,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,50758,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1531853,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,418852,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,447876,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1336417,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,33840,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11191199,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,119713910,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,18023496,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12326045,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,133167138,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,17789086,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,10282196,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,228508,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,193233,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,32193,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,216151054,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,517412969,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,126288269,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,52110442,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,26445379,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11154050,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,35527430,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,341917832,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,88901606,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,48366162,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,140397828,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,47612304,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9649735,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4981395,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,217109427,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,46842914,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,21295590,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,34812352,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,68183593,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,196906800,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,34291513,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,197875724,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,64967514,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,227520454,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,47979710,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,23522881,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,16689136,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,24672064,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,159547591,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5718075,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,869460,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,283501,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,609643,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1154333,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6122899,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,938505,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19604821,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1515773,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11461755,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,43858136,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,10195301,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,35880253,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,142476207,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1641856158,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,765799712,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,592765349,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,653834758,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,858626785,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1805883778,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6935841,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5166545,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3415962,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,4891392,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4868147,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6162924,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2707553,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,75278142,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,850904570,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,361598823,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,102658235,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8132363,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,23957324,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,774767,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3507401,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,70649563,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,759864,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3950985,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,63796248,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,908140,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4754248,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,78109080,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,44929459,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,27795725,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8987889,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,136734393,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,837640429,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,379723584,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2421386681,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,9207286,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11426376,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8689084,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,4249866,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,47263167,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,28510477,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1905012,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2031494,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1473836,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,30679616,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,59067449,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,23556632,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,30635235,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,6244864,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1148788,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,183840,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,402975,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1238855,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5141312,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,56184997,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10717171,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,16795172,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,46416144,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9903270,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,18166291,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3750968,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,90349,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2344735,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2895004,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,324768,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4956752,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,63742911,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,72200841,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,30468257,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,32005487,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,60448524,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,36082729,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,33951113,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2325252,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,265366,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2634427,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,166770,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4158974,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,45231717,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8474403,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,97869087,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12872510,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,10254116,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,8864876,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2133771,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5542737,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,176618,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,6033210,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,286212366,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,49363090,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,815105553,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,156025525,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,77602551,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,454971282,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,141924487,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,188874692,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1677761978,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,704359227,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,31886540,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,238948652,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,76815772,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,102137959,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,345602881,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,107324926,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,161138599,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,84435445,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,37795709,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,99706758,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,12637933,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,194766721,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4019120,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,164516770,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,78664719,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,64877898,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,171972361,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,89889417,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,68947170,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2778325,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,237262237,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,10611720,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,3819760,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,10702376,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,12935390,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,87304865,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,60464092,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,154707210,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,66320948,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12274651,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,39175092,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,9417983,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,83683626,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,342972340,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,35942432,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1561393853,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,268155523,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,689414066,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,672987843,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1541819071,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,250291726,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,983185686,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,302441375,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2019104850,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,836463323,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,313147981,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2049588248,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,805573182,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2063462584,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,302707917,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3838177,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11955205,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1021032,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,12291500,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,102686600,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8362900,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,22219471,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,33729014,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,193789364,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1131485,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19970073,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,329487,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5295729,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,17231176,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,9469628,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,287063691,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,115274531,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,107705433,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,134763640,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,4559772,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,3919001,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,41498705,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,924477,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1128505,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14694590,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,43590411,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,153101851,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,656612,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,14340602,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2567544,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,19229229,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,214468605,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,56491719,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,28414801,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,251051205,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,64642236,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,155000401,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,49764056,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,30007974,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,56507949,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,245325253,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,251957598,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,13114931,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2454930,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,53709272,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,259100968,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,66423511,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,11420233,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,6284283,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,20241630,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,612389551,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,108513191,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,43047003,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,781220770,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,134761782,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,51105174,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,73453671,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,12209174,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5309343,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1983948710,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,40298792,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,180545334,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,21719992,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,35092673,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,136039228,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,506412832,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,42839233,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1606292,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,19730602,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,306028,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,18106000,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,140502000,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,23428000,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,24843000,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,25658000,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,99481000,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,14817000,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2229296,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,26141551,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1768270,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7921969,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,227808195,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,57685310,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,789384332,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,102505711,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,450929168,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,152579552,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,645938,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3118098,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1323429,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2641733,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,628490,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,55900926,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1942939,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,625047,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4547498,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,63013819,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9160826,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,103110676,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,116306887,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7348642,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,83176728,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,56901915,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9173441,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,103228070,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,159014,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1785866,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,131129095,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,100410295,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5544159,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1005815,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1220953,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5282847,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,103776909,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,114031305,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,7475338,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,760735,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,1119705,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5538662,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,99122347,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,41466052,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,382798903,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,93829006,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1686349,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,30844296,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1308673,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,464054450,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,150733547,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,107683150,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,12426400,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,47801233,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,9171543,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,34274929,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,52764047,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,162462752,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,161326321,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,31018597,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,49187646,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,270836942,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,88276374,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,85024416,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2144334,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,12561230,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,590834,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1469117,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,6110023,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,319276,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,114484139,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,595258338,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,64977647,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,60573960,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,575601850,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,122022462,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,472484,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,746808842,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,332274342,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1971932577,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,97048491,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,362926,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3125207,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,814984,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3507076,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,76571,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17023312,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,11780093,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,49193546,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,220716207,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,49598045,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,499974745,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,424291917,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,645146866,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,62508386,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,88963042,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,77774811,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,38753349,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1640793632,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,748557845,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2250261,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,8546207,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,965986,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,561297,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,11614605,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,56929,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,529758,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,461421,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,253921,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7112299,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,57739,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,562049,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,7401011,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,44751,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,8246012,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,567072,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,213815,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17413444,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,29163309,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,169050520,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2485807,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,203835,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,3912742,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2396442,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,37219890,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,806507,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,168875576,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,761490478,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,68972671,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11851838,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5077969,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,51909139,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14076801,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,50128212,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,9541930,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,13813157,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,18143933,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,7232434,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12262614,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,5581797,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,54468722,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,38377499,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,86585942,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17598005,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,165151463,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,106431858,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,455059477,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2194390,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3488253,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,622778,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3879311,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,229880766,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,8416860,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,146065579,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,112256312,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,645129203,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,109035776,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,161219185,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,619621799,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,336345052,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,581759607,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,40162999,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,55851896,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2764489,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,10814249,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,1180740,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,17760902,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,206237799,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,34669819,,,0
+HS,2020,202002,February 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,372983800,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,88723140,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,49797735,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,168005599,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,671245822,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1542260719,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,608675361,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,669148692,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,1364787296,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,533112366,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,392034726,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,105973125,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,122580081,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,384405411,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,,,162613597,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,9810067,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,82276680,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,17016396,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,956830,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4869424,,,0
+HS,2020,202001,January 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,328327,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1992452,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2885770,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,277284,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,825150,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2425056,,,0
+HS,2020,202003,March 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,392848,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,404592,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,2463755,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,33589,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,62701235,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8732208,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,35754373,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,20033928,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,8455755,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,49802517,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,55985199,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,32844019,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,12641342,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,106720174,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,27684133,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,43034497,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,52437019,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,21504993,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,29172218,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,37081160,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,30624243,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,65250214,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,93494818,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,7630362,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,39490491,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,85637420,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,6162455,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,54897089,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,9927013,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,75650472,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,14621752,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,,,8562757,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,106569499,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,58744810,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,43716496,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,384505549,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,44013584,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,99367018,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,43810966,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2304523,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,2054079,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,11581955,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,90046515,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,15513864,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,34401272,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,188953781,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,19416069,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1169261,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,7886109,,,0
+HS,2020,202004,April 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,482852,,,0
+HS,2020,202008,August 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,920899,,,0
+HS,2020,202008,August 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,3591616,,,0
+HS,2020,202008,August 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,20282361,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,666602,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,577629,,,0
+HS,2020,202005,May 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,5200517,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,823942,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,2005887,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,14071759,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,36502859,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,205965678,,,0
+HS,2020,202006,June 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,427309366,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0,,4038482,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,74,Copper and articles thereof,,,,,,,0,,182503,,,0
+HS,2020,202007,July 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",,,,,,,0,,1878032,,,0

@@ -1,0 +1,295 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,57049420,,,4
+H5,2019,2019,2019,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,405588553,,,4
+H5,2019,2019,2019,2,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,31046163,,,4
+H5,2019,2019,2019,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,104819323,,,4
+H5,2019,2019,2019,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,699376839,,,4
+H5,2019,2019,2019,2,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,216250528,,,4
+H5,2019,2019,2019,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,819875086,,,4
+H5,2019,2019,2019,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,790495711,,,4
+H5,2019,2019,2019,2,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,766897679,,,4
+H5,2019,2019,2019,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,794564288,,,4
+H5,2019,2019,2019,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,4126611092,,,4
+H5,2019,2019,2019,2,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1898371923,,,4
+H5,2019,2019,2019,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,16981241,,,4
+H5,2019,2019,2019,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,101156182,,,4
+H5,2019,2019,2019,2,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,5982934,,,4
+H5,2019,2019,2019,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,853447932,,,4
+H5,2019,2019,2019,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,11991327361,,,4
+H5,2019,2019,2019,2,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3596439908,,,4
+H5,2019,2019,2019,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,56278675,,,4
+H5,2019,2019,2019,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,356015464,,,4
+H5,2019,2019,2019,2,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,142403184,,,4
+H5,2019,2019,2019,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,46911513,,,4
+H5,2019,2019,2019,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,69735774,,,4
+H5,2019,2019,2019,2,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,22015394,,,4
+H5,2019,2019,2019,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,459110194,,,0
+H5,2019,2019,2019,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,4550563,,,4
+H5,2019,2019,2019,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,2160831486,,,0
+H5,2019,2019,2019,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,22908736,,,4
+H5,2019,2019,2019,2,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,1445876493,,,0
+H5,2019,2019,2019,2,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,684133,,,4
+H5,2019,2019,2019,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,42638095,,,4
+H5,2019,2019,2019,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,45933046,,,4
+H5,2019,2019,2019,2,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,6931937,,,4
+H5,2019,2019,2019,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,115209966,,,4
+H5,2019,2019,2019,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,1351303883,,,4
+H5,2019,2019,2019,2,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,654095116,,,4
+H5,2019,2019,2019,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,55274007,,,4
+H5,2019,2019,2019,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,932174303,,,4
+H5,2019,2019,2019,2,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,25313535,,,4
+H5,2019,2019,2019,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,1637092495,,,0
+H5,2019,2019,2019,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,6253458288,,,0
+H5,2019,2019,2019,2,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,2135732494,,,0
+H5,2019,2019,2019,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,141319166,,,4
+H5,2019,2019,2019,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1464991507,,,4
+H5,2019,2019,2019,2,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,122964336,,,4
+H5,2019,2019,2019,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,104453384,,,4
+H5,2019,2019,2019,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,32608,,,0
+H5,2019,2019,2019,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,1623097068,,,4
+H5,2019,2019,2019,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,11674687,,,0
+H5,2019,2019,2019,2,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,310345164,,,4
+H5,2019,2019,2019,2,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,45047,,,0
+H5,2019,2019,2019,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,3719825,,,4
+H5,2019,2019,2019,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,14738461,,,4
+H5,2019,2019,2019,2,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,823431,,,4
+H5,2019,2019,2019,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,124883670,,,4
+H5,2019,2019,2019,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,650317330,,,4
+H5,2019,2019,2019,2,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,197233072,,,4
+H5,2019,2019,2019,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,54632568,,,0
+H5,2019,2019,2019,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1935971,,,4
+H5,2019,2019,2019,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,187992743,,,4
+H5,2019,2019,2019,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,91755940,,,4
+H5,2019,2019,2019,2,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,13965782,,,0
+H5,2019,2019,2019,2,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,317339,,,4
+H5,2019,2019,2019,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,553049649,,,4
+H5,2019,2019,2019,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2038621817,,,4
+H5,2019,2019,2019,2,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,324904439,,,0
+H5,2019,2019,2019,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,33151636,,,4
+H5,2019,2019,2019,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,365062980,,,4
+H5,2019,2019,2019,2,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,13249145,,,4
+H5,2019,2019,2019,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,123965201,,,4
+H5,2019,2019,2019,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,617796852,,,4
+H5,2019,2019,2019,2,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,68441840,,,4
+H5,2019,2019,2019,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,264328820,,,4
+H5,2019,2019,2019,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,2442930368,,,4
+H5,2019,2019,2019,2,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,500136809,,,4
+H5,2019,2019,2019,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,2240450483,,,4
+H5,2019,2019,2019,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,12230062017,,,4
+H5,2019,2019,2019,2,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3450811464,,,4
+H5,2019,2019,2019,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,3866171348,,,4
+H5,2019,2019,2019,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,27508628418,,,4
+H5,2019,2019,2019,2,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,10549705295,,,4
+H5,2019,2019,2019,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,19140248,,,4
+H5,2019,2019,2019,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,359244506,,,4
+H5,2019,2019,2019,2,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,22436539,,,4
+H5,2019,2019,2019,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,91439648,,,4
+H5,2019,2019,2019,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,46522562,,,4
+H5,2019,2019,2019,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1252497434,,,4
+H5,2019,2019,2019,2,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,759124035,,,0
+H5,2019,2019,2019,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,453709416,,,4
+H5,2019,2019,2019,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,707450724,,,4
+H5,2019,2019,2019,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1715045752,,,4
+H5,2019,2019,2019,2,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,8466554,,,4
+H5,2019,2019,2019,2,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1475452740,,,4
+H5,2019,2019,2019,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,451996382,,,4
+H5,2019,2019,2019,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2474865530,,,4
+H5,2019,2019,2019,2,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,765320124,,,4
+H5,2019,2019,2019,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,23907913,,,4
+H5,2019,2019,2019,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,52740887,,,4
+H5,2019,2019,2019,2,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,7962106,,,4
+H5,2019,2019,2019,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,499314061,,,4
+H5,2019,2019,2019,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,10392029721,,,4
+H5,2019,2019,2019,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,1305084846,,,4
+H5,2019,2019,2019,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,249782653,,,4
+H5,2019,2019,2019,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,756695195,,,4
+H5,2019,2019,2019,2,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,158123025,,,4
+H5,2019,2019,2019,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,322699000,,,4
+H5,2019,2019,2019,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,1591912000,,,4
+H5,2019,2019,2019,2,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,212606000,,,4
+H5,2019,2019,2019,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1283014778,,,4
+H5,2019,2019,2019,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,19469332903,,,4
+H5,2019,2019,2019,2,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,6674001725,,,4
+H5,2019,2019,2019,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,13452418,,,0
+H5,2019,2019,2019,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,247297001,,,4
+H5,2019,2019,2019,2,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,31618502,,,4
+H5,2019,2019,2019,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,20431169,,,4
+H5,2019,2019,2019,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1538982654,,,4
+H5,2019,2019,2019,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,116757213,,,4
+H5,2019,2019,2019,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,7724893974,,,4
+H5,2019,2019,2019,2,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,6964145,,,4
+H5,2019,2019,2019,2,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2814394612,,,4
+H5,2019,2019,2019,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,200084160,,,4
+H5,2019,2019,2019,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1217118678,,,4
+H5,2019,2019,2019,2,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,68319372,,,4
+H5,2019,2019,2019,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,56835662,,,0
+H5,2019,2019,2019,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,425150251,,,0
+H5,2019,2019,2019,2,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,137901186,,,0
+H5,2019,2019,2019,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1513012246,,,4
+H5,2019,2019,2019,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,15677923591,,,4
+H5,2019,2019,2019,2,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,5318769938,,,4
+H5,2019,2019,2019,2,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,37598581,,,4
+H5,2019,2019,2019,2,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,275462522,,,4
+H5,2019,2019,2019,2,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,10689706,,,0
+H5,2019,2019,2019,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,122185019,,,4
+H5,2019,2019,2019,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,607716209,,,4
+H5,2019,2019,2019,2,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,55276309,,,4
+H5,2019,2019,2019,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,158689149,,,4
+H5,2019,2019,2019,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,19869415,,,4
+H5,2019,2019,2019,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,781125878,,,4
+H5,2019,2019,2019,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,106575192,,,4
+H5,2019,2019,2019,2,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,121632492,,,4
+H5,2019,2019,2019,2,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,13927941,,,4
+H5,2019,2019,2019,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,5920181,,,4
+H5,2019,2019,2019,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,89059781,,,4
+H5,2019,2019,2019,2,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1478957,,,4
+H5,2019,2019,2019,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,313016012,,,0
+H5,2019,2019,2019,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,6611961827,,,4
+H5,2019,2019,2019,2,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3519182829,,,4
+H5,2019,2019,2019,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,17327371,,,4
+H5,2019,2019,2019,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,21857182,,,4
+H5,2019,2019,2019,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,36116053,,,4
+H5,2019,2019,2019,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,85768817,,,4
+H5,2019,2019,2019,2,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,15094082,,,4
+H5,2019,2019,2019,2,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,9285063,,,4
+H5,2019,2019,2019,2,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,53125283,,,0
+H5,2019,2019,2019,2,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,194304225,,,4
+H5,2019,2019,2019,2,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2947111,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,219285755,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1517002830,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,612022967,,,4
+H5,2019,2019,2019,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,22830313,,,4
+H5,2019,2019,2019,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,101683036,,,4
+H5,2019,2019,2019,2,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,1281356169,,,4
+H5,2019,2019,2019,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,1394073226,,,4
+H5,2019,2019,2019,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,9749208125,,,4
+H5,2019,2019,2019,2,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2076102876,,,4
+H5,2019,2019,2019,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,157704988,,,4
+H5,2019,2019,2019,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,335476722,,,4
+H5,2019,2019,2019,2,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,122730165,,,4
+H5,2019,2019,2019,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,453843986,,,4
+H5,2019,2019,2019,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,844295774,,,4
+H5,2019,2019,2019,2,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,372455011,,,4
+H5,2019,2019,2019,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,56986426,,,4
+H5,2019,2019,2019,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,71250162,,,0
+H5,2019,2019,2019,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,3096012578,,,4
+H5,2019,2019,2019,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,1506682912,,,4
+H5,2019,2019,2019,2,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,176862891,,,4
+H5,2019,2019,2019,2,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,50830708,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,324948578,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,4050577530,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,802827945,,,4
+H5,2019,2019,2019,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,834477664,,,4
+H5,2019,2019,2019,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,9120445723,,,4
+H5,2019,2019,2019,2,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1800276405,,,4
+H5,2019,2019,2019,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,249078516,,,4
+H5,2019,2019,2019,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,2738349604,,,4
+H5,2019,2019,2019,2,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,583131295,,,4
+H5,2019,2019,2019,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,367547274,,,4
+H5,2019,2019,2019,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,3129490676,,,4
+H5,2019,2019,2019,2,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,724944160,,,4
+H5,2019,2019,2019,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,937727235,,,4
+H5,2019,2019,2019,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,5050884282,,,4
+H5,2019,2019,2019,2,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1037159388,,,4
+H5,2019,2019,2019,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,7763546,,,0
+H5,2019,2019,2019,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,105834422,,,0
+H5,2019,2019,2019,2,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,2204477,,,4
+H5,2019,2019,2019,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,14093851,,,0
+H5,2019,2019,2019,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,301083842,,,4
+H5,2019,2019,2019,2,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,30491002,,,0
+H5,2019,2019,2019,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,111221787,,,4
+H5,2019,2019,2019,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,4019801,,,4
+H5,2019,2019,2019,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,651472411,,,4
+H5,2019,2019,2019,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,23814340,,,4
+H5,2019,2019,2019,2,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,367304458,,,4
+H5,2019,2019,2019,2,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,1912383,,,4
+H5,2019,2019,2019,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,931390863,,,4
+H5,2019,2019,2019,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,11800163136,,,4
+H5,2019,2019,2019,2,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,5188508077,,,4
+H5,2019,2019,2019,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,708541371,,,4
+H5,2019,2019,2019,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2630962270,,,4
+H5,2019,2019,2019,2,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,751836094,,,4
+H5,2019,2019,2019,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,248839557,,,4
+H5,2019,2019,2019,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,2480603388,,,4
+H5,2019,2019,2019,2,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,638644128,,,4
+H5,2019,2019,2019,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,552453107,,,4
+H5,2019,2019,2019,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,11333930769,,,4
+H5,2019,2019,2019,2,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3090394490,,,4
+H5,2019,2019,2019,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,154908369,,,0
+H5,2019,2019,2019,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1512460411,,,0
+H5,2019,2019,2019,2,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,230212286,,,0
+H5,2019,2019,2019,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,232831303,,,0
+H5,2019,2019,2019,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,1140979066,,,0
+H5,2019,2019,2019,2,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,583190099,,,0
+H5,2019,2019,2019,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,12758957,,,4
+H5,2019,2019,2019,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,114468601,,,4
+H5,2019,2019,2019,2,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,9329207,,,0
+H5,2019,2019,2019,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,845109709,,,4
+H5,2019,2019,2019,2,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,4527504,,,0
+H5,2019,2019,2019,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,9838951291,,,4
+H5,2019,2019,2019,2,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,2111274153,,,4
+H5,2019,2019,2019,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,675475261,,,4
+H5,2019,2019,2019,2,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,28161599,,,4
+H5,2019,2019,2019,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,4403836809,,,4
+H5,2019,2019,2019,2,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,4395890,,,4
+H5,2019,2019,2019,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,918272981,,,4
+H5,2019,2019,2019,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,2438849703,,,4
+H5,2019,2019,2019,2,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,942452254,,,4
+H5,2019,2019,2019,2,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,906053566,,,4
+H5,2019,2019,2019,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,324838771,,,4
+H5,2019,2019,2019,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,10865603998,,,4
+H5,2019,2019,2019,2,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,3876440717,,,4
+H5,2019,2019,2019,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,2039389,,,0
+H5,2019,2019,2019,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,90926918,,,0
+H5,2019,2019,2019,2,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,763202,,,0
+H5,2019,2019,2019,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,36853522,,,0
+H5,2019,2019,2019,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,615473405,,,4
+H5,2019,2019,2019,2,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,374410617,,,4
+H5,2019,2019,2019,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,421200503,,,4
+H5,2019,2019,2019,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,15049676845,,,4
+H5,2019,2019,2019,2,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,3036877337,,,4
+H5,2019,2019,2019,2,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,21863583,,,4
+H5,2019,2019,2019,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,2096968863,,,4
+H5,2019,2019,2019,2,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,508552516,,,4
+H5,2019,2019,2019,2,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,21730183,,,4
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,8526274091,,,4
+H5,2019,2019,2019,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,5958305643,,,4
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,24617009608,,,4
+H5,2019,2019,2019,2,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,1940424518,,,4
+H5,2019,2019,2019,2,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,64888577,,,4
+H5,2019,2019,2019,2,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,1428415773,,,4
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,9623137450,,,4
+H5,2019,2019,2019,2,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,33586851,,,4
+H5,2019,2019,2019,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,2636065,,,0
+H5,2019,2019,2019,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,198743120,,,0
+H5,2019,2019,2019,2,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,474554,,,0
+H5,2019,2019,2019,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,13990279,,,4
+H5,2019,2019,2019,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,196364898,,,4
+H5,2019,2019,2019,2,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,21210441,,,4
+H4,2019,2019,2019,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,47182495,,,4
+H4,2019,2019,2019,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,450568,,,0
+H4,2019,2019,2019,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,,,837008947,,,0
+H4,2019,2019,2019,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,40565516,,,4
+H4,2019,2019,2019,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,257604062,,,4
+H4,2019,2019,2019,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,94013778,,,4
+H4,2019,2019,2019,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,194952359,,,4
+H4,2019,2019,2019,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,13950052,,,4
+H4,2019,2019,2019,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,10753275800,,,0
+H4,2019,2019,2019,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,99244938,,,4
+H4,2019,2019,2019,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,364794883,,,4
+H4,2019,2019,2019,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,,,3648795661,,,4
+H4,2019,2019,2019,2,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,14854790,,,0
+H4,2019,2019,2019,2,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,121452,,,4
+H4,2019,2019,2019,2,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,,,3149245946,,,0
+H4,2019,2019,2019,2,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,74893507,,,4
+H4,2019,2019,2019,2,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,278008788,,,4
+H4,2019,2019,2019,2,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,933910040,,,4
+H3,2019,2019,2019,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",1,No Quantity,0,,,,0,,4262048,,,4
+H3,2019,2019,2019,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",1,No Quantity,0,,,,0,,310108,,,0
+H3,2019,2019,2019,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,68,"Articles of stone, plaster, cement, asbestos, mica or similar materials",1,No Quantity,0,,,,0,,6366355,,,0
+H3,2019,2019,2019,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,7690356,,,4
+H3,2019,2019,2019,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,832615,,,0
+H3,2019,2019,2019,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,19789580,,,0
+H3,2019,2019,2019,2,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1112557,,,4
+H3,2019,2019,2019,2,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,73028,,,0
+H3,2019,2019,2019,2,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1210281,,,0
