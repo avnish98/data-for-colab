@@ -1,0 +1,877 @@
+,Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+0,HS,2019,201901,January 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12970245,,,0
+1,HS,2019,201902,February 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29968435,,,0
+2,HS,2019,201903,March 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8436107,,,0
+3,HS,2019,201904,April 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20306206,,,0
+4,HS,2019,201905,May 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23614403,,,0
+5,HS,2019,201901,January 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,882349,,,0
+6,HS,2019,201902,February 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,978930,,,0
+7,HS,2019,201903,March 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,777880,,,0
+8,HS,2019,201904,April 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,427922,,,0
+9,HS,2019,201905,May 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,474959,,,0
+10,HS,2019,201901,January 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,26192916,,,0
+11,HS,2019,201902,February 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,23195874,,,0
+12,HS,2019,201903,March 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22072922,,,0
+13,HS,2019,201904,April 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,33770842,,,0
+14,HS,2019,201905,May 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,33938651,,,0
+15,HS,2019,201901,January 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,76567678,,,0
+16,HS,2019,201902,February 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,63489759,,,0
+17,HS,2019,201903,March 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,59025529,,,0
+18,HS,2019,201904,April 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,56352520,,,0
+19,HS,2019,201905,May 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,53757020,,,0
+20,HS,2019,201901,January 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,86684270,,,0
+21,HS,2019,201902,February 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,69931992,,,0
+22,HS,2019,201903,March 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59278831,,,0
+23,HS,2019,201904,April 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,66291946,,,0
+24,HS,2019,201905,May 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,69533641,,,0
+25,HS,2019,201901,January 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4203000,,,0
+26,HS,2019,201902,February 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9206578,,,0
+27,HS,2019,201903,March 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,7240702,,,0
+28,HS,2019,201904,April 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8416026,,,0
+29,HS,2019,201905,May 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8269850,,,0
+30,HS,2019,201901,January 2019,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,945452,,,0
+31,HS,2019,201902,February 2019,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,738966,,,0
+32,HS,2019,201903,March 2019,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,769389,,,0
+33,HS,2019,201904,April 2019,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,593816,,,0
+34,HS,2019,201901,January 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1229434614,,,0
+35,HS,2019,201902,February 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1036951966,,,0
+36,HS,2019,201903,March 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1147129027,,,0
+37,HS,2019,201904,April 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1223702297,,,0
+38,HS,2019,201905,May 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1206169511,,,0
+39,HS,2019,201901,January 2019,2,0,1,Imports,68,Bolivia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,56488958,,,0
+40,HS,2019,201902,February 2019,2,0,1,Imports,68,Bolivia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,49586865,,,0
+41,HS,2019,201903,March 2019,2,0,1,Imports,68,Bolivia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,33701779,,,0
+42,HS,2019,201901,January 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,24170296,,,0
+43,HS,2019,201902,February 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,32133436,,,0
+44,HS,2019,201903,March 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,36691319,,,0
+45,HS,2019,201904,April 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,31015785,,,0
+46,HS,2019,201905,May 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,34393513,,,0
+47,HS,2019,201901,January 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5835756,,,0
+48,HS,2019,201902,February 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6259978,,,0
+49,HS,2019,201903,March 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5678740,,,0
+50,HS,2019,201904,April 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5020874,,,0
+51,HS,2019,201905,May 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6007442,,,0
+52,HS,2019,201901,January 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,192682685,,,0
+53,HS,2019,201902,February 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,182658069,,,0
+54,HS,2019,201903,March 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,194476362,,,0
+55,HS,2019,201904,April 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,198878426,,,0
+56,HS,2019,201905,May 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,207801568,,,0
+57,HS,2019,201901,January 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2518849,,,0
+58,HS,2019,201902,February 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2017997,,,0
+59,HS,2019,201903,March 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1368436,,,0
+60,HS,2019,201904,April 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1869108,,,0
+61,HS,2019,201905,May 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2093105,,,0
+62,HS,2019,201901,January 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3618062809,,,0
+63,HS,2019,201902,February 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3167732968,,,0
+64,HS,2019,201903,March 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3172777039,,,0
+65,HS,2019,201904,April 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3526615106,,,0
+66,HS,2019,201905,May 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3002816342,,,0
+67,HS,2019,201901,January 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,123603497,,,0
+68,HS,2019,201902,February 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,110602094,,,0
+69,HS,2019,201903,March 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,126226956,,,0
+70,HS,2019,201904,April 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,132247351,,,0
+71,HS,2019,201905,May 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,117199604,,,0
+72,HS,2019,201901,January 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,129351900,,,0
+73,HS,2019,201902,February 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,131842900,,,0
+74,HS,2019,201903,March 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,139511900,,,0
+75,HS,2019,201904,April 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,144948400,,,0
+76,HS,2019,201905,May 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,140205900,,,0
+77,HS,2019,201901,January 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,591847619,,,0
+78,HS,2019,201902,February 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,471362555,,,0
+79,HS,2019,201903,March 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,565695055,,,0
+80,HS,2019,201904,April 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,531475778,,,0
+81,HS,2019,201905,May 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,603747828,,,0
+82,HS,2019,201901,January 2019,2,0,1,Imports,132,Cabo Verde,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1620181,,,0
+83,HS,2019,201902,February 2019,2,0,1,Imports,132,Cabo Verde,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,892151,,,0
+84,HS,2019,201901,January 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,150756467,,,0
+85,HS,2019,201902,February 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,169449919,,,0
+86,HS,2019,201903,March 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,159616958,,,0
+87,HS,2019,201904,April 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109789271,,,0
+88,HS,2019,201905,May 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,125662513,,,0
+89,HS,2019,201901,January 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,139198404,,,0
+90,HS,2019,201902,February 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,116502633,,,0
+91,HS,2019,201903,March 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,139130535,,,0
+92,HS,2019,201904,April 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,154649782,,,0
+93,HS,2019,201905,May 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,138362145,,,0
+94,HS,2019,201901,January 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1285680,,,0
+95,HS,2019,201902,February 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1321414,,,0
+96,HS,2019,201903,March 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1014594,,,0
+97,HS,2019,201904,April 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,891600,,,0
+98,HS,2019,201905,May 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1936961,,,0
+99,HS,2019,201901,January 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1232089,,,0
+100,HS,2019,201902,February 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,623433,,,0
+101,HS,2019,201903,March 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,937636,,,0
+102,HS,2019,201904,April 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,515363,,,0
+103,HS,2019,201905,May 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1920378,,,0
+104,HS,2019,201901,January 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,55894419,,,0
+105,HS,2019,201902,February 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64998501,,,0
+106,HS,2019,201903,March 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64693705,,,0
+107,HS,2019,201904,April 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,63812803,,,0
+108,HS,2019,201905,May 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59607674,,,0
+109,HS,2019,201901,January 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14537573,,,0
+110,HS,2019,201902,February 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,12501029,,,0
+111,HS,2019,201903,March 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20074173,,,0
+112,HS,2019,201904,April 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14179873,,,0
+113,HS,2019,201905,May 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,21906006,,,0
+114,HS,2019,201901,January 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,548880503,,,0
+115,HS,2019,201902,February 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,545718354,,,0
+116,HS,2019,201903,March 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,564647175,,,0
+117,HS,2019,201904,April 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,549746059,,,0
+118,HS,2019,201905,May 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,559995578,,,0
+119,HS,2019,201901,January 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7583131,,,0
+120,HS,2019,201902,February 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1986994,,,0
+121,HS,2019,201903,March 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8905321,,,0
+122,HS,2019,201904,April 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7788104,,,0
+123,HS,2019,201905,May 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14127746,,,0
+124,HS,2019,201901,January 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,204400239,,,0
+125,HS,2019,201902,February 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,182576017,,,0
+126,HS,2019,201903,March 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,192676106,,,0
+127,HS,2019,201904,April 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,175283754,,,0
+128,HS,2019,201905,May 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,204581181,,,0
+129,HS,2019,201901,January 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,83987328,,,0
+130,HS,2019,201902,February 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60809574,,,0
+131,HS,2019,201903,March 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,60356433,,,0
+132,HS,2019,201904,April 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,63493798,,,0
+133,HS,2019,201905,May 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,65003946,,,0
+134,HS,2019,201901,January 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,48403900,,,0
+135,HS,2019,201902,February 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,36293442,,,0
+136,HS,2019,201903,March 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29859563,,,0
+137,HS,2019,201904,April 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29105916,,,0
+138,HS,2019,201905,May 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,37082820,,,0
+139,HS,2019,201901,January 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,45471204,,,0
+140,HS,2019,201902,February 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47404702,,,0
+141,HS,2019,201903,March 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64474022,,,0
+142,HS,2019,201904,April 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,51339949,,,0
+143,HS,2019,201905,May 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59932436,,,0
+144,HS,2019,201901,January 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,196341443,,,0
+145,HS,2019,201902,February 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,184821405,,,0
+146,HS,2019,201903,March 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,206639668,,,0
+147,HS,2019,201904,April 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,255594094,,,0
+148,HS,2019,201905,May 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,244424517,,,0
+149,HS,2019,201901,January 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11155634,,,0
+150,HS,2019,201902,February 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7355588,,,0
+151,HS,2019,201903,March 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,15820200,,,0
+152,HS,2019,201904,April 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14724866,,,0
+153,HS,2019,201905,May 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17376975,,,0
+154,HS,2019,201901,January 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,503545,,,0
+155,HS,2019,201902,February 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,736248,,,0
+156,HS,2019,201903,March 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,512483,,,0
+157,HS,2019,201904,April 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,578660,,,0
+158,HS,2019,201905,May 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3214311,,,0
+159,HS,2019,201901,January 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2637198946,,,0
+160,HS,2019,201902,February 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2567017478,,,0
+161,HS,2019,201903,March 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2698082917,,,0
+162,HS,2019,201904,April 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2469233758,,,0
+163,HS,2019,201905,May 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2473947011,,,0
+164,HS,2019,201901,January 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,38203443,,,0
+165,HS,2019,201902,February 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26430280,,,0
+166,HS,2019,201903,March 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26856032,,,0
+167,HS,2019,201904,April 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29353068,,,0
+168,HS,2019,201905,May 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24197214,,,0
+169,HS,2019,201901,January 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,104381555,,,0
+170,HS,2019,201902,February 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,85301377,,,0
+171,HS,2019,201903,March 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,121158213,,,0
+172,HS,2019,201904,April 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,111152307,,,0
+173,HS,2019,201905,May 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,126619926,,,0
+174,HS,2019,201901,January 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58109279,,,0
+175,HS,2019,201902,February 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,55174962,,,0
+176,HS,2019,201903,March 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,67726057,,,0
+177,HS,2019,201904,April 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,63361081,,,0
+178,HS,2019,201905,May 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,73927716,,,0
+179,HS,2019,201901,January 2019,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1987881,,,0
+180,HS,2019,201902,February 2019,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3621210,,,0
+181,HS,2019,201903,March 2019,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6150536,,,0
+182,HS,2019,201904,April 2019,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4565622,,,0
+183,HS,2019,201905,May 2019,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3937632,,,0
+184,HS,2019,201901,January 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,129331807,,,0
+185,HS,2019,201902,February 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,118586255,,,0
+186,HS,2019,201903,March 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,136944814,,,0
+187,HS,2019,201904,April 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,150304805,,,0
+188,HS,2019,201905,May 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,132936254,,,0
+189,HS,2019,201901,January 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,224366855,,,0
+190,HS,2019,201902,February 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,221510051,,,0
+191,HS,2019,201903,March 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,229753588,,,0
+192,HS,2019,201904,April 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,234111245,,,0
+193,HS,2019,201905,May 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,221482123,,,0
+194,HS,2019,201901,January 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,4072312,,,0
+195,HS,2019,201902,February 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6098260,,,0
+196,HS,2019,201903,March 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5920796,,,0
+197,HS,2019,201904,April 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2953070,,,0
+198,HS,2019,201905,May 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5094902,,,0
+199,HS,2019,201901,January 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,81495672,,,0
+200,HS,2019,201902,February 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,82347675,,,0
+201,HS,2019,201903,March 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62917651,,,0
+202,HS,2019,201904,April 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64675793,,,0
+203,HS,2019,201905,May 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,63033675,,,0
+204,HS,2019,201901,January 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,143355000,,,0
+205,HS,2019,201902,February 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,158690000,,,0
+206,HS,2019,201903,March 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,111354000,,,0
+207,HS,2019,201904,April 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,110284000,,,0
+208,HS,2019,201905,May 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,159076000,,,0
+209,HS,2019,201901,January 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1966004219,,,0
+210,HS,2019,201902,February 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1806227285,,,0
+211,HS,2019,201903,March 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1884493528,,,0
+212,HS,2019,201904,April 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1851813453,,,0
+213,HS,2019,201905,May 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1873698782,,,0
+214,HS,2019,201901,January 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,28769139,,,0
+215,HS,2019,201902,February 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23918575,,,0
+216,HS,2019,201903,March 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20735598,,,0
+217,HS,2019,201904,April 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,23924325,,,0
+218,HS,2019,201905,May 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14046919,,,0
+219,HS,2019,201901,January 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,758697788,,,0
+220,HS,2019,201902,February 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,644905578,,,0
+221,HS,2019,201903,March 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,658203626,,,0
+222,HS,2019,201904,April 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,723000569,,,0
+223,HS,2019,201905,May 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,677052682,,,0
+224,HS,2019,201901,January 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,81864149,,,0
+225,HS,2019,201902,February 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,73451380,,,0
+226,HS,2019,201903,March 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,99076559,,,0
+227,HS,2019,201904,April 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109888724,,,0
+228,HS,2019,201905,May 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,102200856,,,0
+229,HS,2019,201901,January 2019,2,0,1,Imports,404,Kenya,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,94673695,,,0
+230,HS,2019,201902,February 2019,2,0,1,Imports,404,Kenya,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60623118,,,0
+231,HS,2019,201901,January 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1549415725,,,0
+232,HS,2019,201902,February 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1315362955,,,0
+233,HS,2019,201903,March 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1407425270,,,0
+234,HS,2019,201904,April 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1536626309,,,0
+235,HS,2019,201905,May 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1442572235,,,0
+236,HS,2019,201901,January 2019,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9104697,,,0
+237,HS,2019,201902,February 2019,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10770228,,,0
+238,HS,2019,201903,March 2019,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19318190,,,0
+239,HS,2019,201904,April 2019,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20833230,,,0
+240,HS,2019,201905,May 2019,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17392283,,,0
+241,HS,2019,201901,January 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,30963352,,,0
+242,HS,2019,201902,February 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12421442,,,0
+243,HS,2019,201903,March 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25890620,,,0
+244,HS,2019,201904,April 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,21604840,,,0
+245,HS,2019,201905,May 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,36020047,,,0
+246,HS,2019,201901,January 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,61069138,,,0
+247,HS,2019,201902,February 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,52270942,,,0
+248,HS,2019,201903,March 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,56574752,,,0
+249,HS,2019,201904,April 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,71551304,,,0
+250,HS,2019,201905,May 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,100813877,,,0
+251,HS,2019,201901,January 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59344254,,,0
+252,HS,2019,201902,February 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,76532143,,,0
+253,HS,2019,201903,March 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,70506054,,,0
+254,HS,2019,201904,April 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,70320651,,,0
+255,HS,2019,201905,May 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64642039,,,0
+256,HS,2019,201902,February 2019,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,115935742,,,0
+257,HS,2019,201903,March 2019,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,130488134,,,0
+258,HS,2019,201904,April 2019,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,125644569,,,0
+259,HS,2019,201901,January 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6156609,,,0
+260,HS,2019,201902,February 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9159672,,,0
+261,HS,2019,201903,March 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6116051,,,0
+262,HS,2019,201904,April 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8343855,,,0
+263,HS,2019,201905,May 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8250244,,,0
+264,HS,2019,201901,January 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10394665,,,0
+265,HS,2019,201902,February 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6758363,,,0
+266,HS,2019,201903,March 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9294106,,,0
+267,HS,2019,201904,April 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8935657,,,0
+268,HS,2019,201905,May 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8982592,,,0
+269,HS,2019,201901,January 2019,2,0,1,Imports,458,Malaysia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,608310153,,,0
+270,HS,2019,201901,January 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1238285,,,0
+271,HS,2019,201902,February 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,4407616,,,0
+272,HS,2019,201903,March 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3084462,,,0
+273,HS,2019,201904,April 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2008092,,,0
+274,HS,2019,201905,May 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3602997,,,0
+275,HS,2019,201901,January 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8876783,,,0
+276,HS,2019,201902,February 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7368989,,,0
+277,HS,2019,201903,March 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7468467,,,0
+278,HS,2019,201904,April 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,8442948,,,0
+279,HS,2019,201905,May 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,10711873,,,0
+280,HS,2019,201901,January 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1027756151,,,0
+281,HS,2019,201902,February 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,929948168,,,0
+282,HS,2019,201903,March 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1091147693,,,0
+283,HS,2019,201904,April 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,998840922,,,0
+284,HS,2019,201905,May 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,905947329,,,0
+285,HS,2019,201901,January 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,6174633,,,0
+286,HS,2019,201902,February 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7437597,,,0
+287,HS,2019,201903,March 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18364045,,,0
+288,HS,2019,201904,April 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,22956550,,,0
+289,HS,2019,201905,May 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,32200167,,,0
+290,HS,2019,201901,January 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4100147,,,0
+291,HS,2019,201902,February 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4946732,,,0
+292,HS,2019,201903,March 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7475585,,,0
+293,HS,2019,201904,April 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10108474,,,0
+294,HS,2019,201905,May 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12065525,,,0
+295,HS,2019,201901,January 2019,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3298074,,,0
+296,HS,2019,201902,February 2019,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6551705,,,0
+297,HS,2019,201903,March 2019,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6272982,,,0
+298,HS,2019,201904,April 2019,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,6802352,,,0
+299,HS,2019,201905,May 2019,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8435953,,,0
+300,HS,2019,201901,January 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,166028151,,,0
+301,HS,2019,201902,February 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,104045333,,,0
+302,HS,2019,201903,March 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,175951577,,,0
+303,HS,2019,201904,April 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,111832169,,,0
+304,HS,2019,201905,May 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,120139699,,,0
+305,HS,2019,201901,January 2019,2,0,1,Imports,533,Aruba,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,859448,,,0
+306,HS,2019,201902,February 2019,2,0,1,Imports,533,Aruba,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,489207,,,0
+307,HS,2019,201903,March 2019,2,0,1,Imports,533,Aruba,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,246454,,,0
+308,HS,2019,201901,January 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,37510221,,,0
+309,HS,2019,201902,February 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35519883,,,0
+310,HS,2019,201903,March 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24458878,,,0
+311,HS,2019,201904,April 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22352352,,,0
+312,HS,2019,201905,May 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31471575,,,0
+313,HS,2019,201901,January 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,81190735,,,0
+314,HS,2019,201902,February 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,74416774,,,0
+315,HS,2019,201903,March 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,76777665,,,0
+316,HS,2019,201904,April 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,79086852,,,0
+317,HS,2019,201905,May 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,86546132,,,0
+318,HS,2019,201901,January 2019,2,0,1,Imports,585,Palau,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,205888,,,0
+319,HS,2019,201902,February 2019,2,0,1,Imports,585,Palau,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,339080,,,0
+320,HS,2019,201903,March 2019,2,0,1,Imports,585,Palau,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,324739,,,0
+321,HS,2019,201901,January 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,287027338,,,0
+322,HS,2019,201902,February 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,234958159,,,0
+323,HS,2019,201903,March 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,266017301,,,0
+324,HS,2019,201904,April 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,263262127,,,0
+325,HS,2019,201905,May 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,296859174,,,0
+326,HS,2019,201901,January 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16697108,,,0
+327,HS,2019,201902,February 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19181118,,,0
+328,HS,2019,201903,March 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19104114,,,0
+329,HS,2019,201904,April 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24032133,,,0
+330,HS,2019,201905,May 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22607488,,,0
+331,HS,2019,201901,January 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,134016738,,,0
+332,HS,2019,201902,February 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,104647857,,,0
+333,HS,2019,201903,March 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,175737050,,,0
+334,HS,2019,201904,April 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,115111114,,,0
+335,HS,2019,201905,May 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,139489881,,,0
+336,HS,2019,201901,January 2019,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,390378772,,,0
+337,HS,2019,201902,February 2019,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,315864633,,,0
+338,HS,2019,201903,March 2019,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,398652133,,,0
+339,HS,2019,201904,April 2019,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,397778457,,,0
+340,HS,2019,201905,May 2019,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,417060153,,,0
+341,HS,2019,201901,January 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,804026252,,,0
+342,HS,2019,201902,February 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,847784446,,,0
+343,HS,2019,201903,March 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,835649131,,,0
+344,HS,2019,201904,April 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,863394918,,,0
+345,HS,2019,201905,May 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,870517238,,,0
+346,HS,2019,201901,January 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,279740237,,,0
+347,HS,2019,201902,February 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,237036721,,,0
+348,HS,2019,201903,March 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,241749020,,,0
+349,HS,2019,201904,April 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,252241306,,,0
+350,HS,2019,201905,May 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,259059929,,,0
+351,HS,2019,201901,January 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25078116,,,0
+352,HS,2019,201902,February 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47532321,,,0
+353,HS,2019,201903,March 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35052679,,,0
+354,HS,2019,201904,April 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23304329,,,0
+355,HS,2019,201905,May 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,33539507,,,0
+356,HS,2019,201901,January 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,219296417,,,0
+357,HS,2019,201902,February 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,266924539,,,0
+358,HS,2019,201903,March 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,309693593,,,0
+359,HS,2019,201904,April 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,299950466,,,0
+360,HS,2019,201905,May 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,286590623,,,0
+361,HS,2019,201901,January 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,288300492,,,0
+362,HS,2019,201902,February 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,335287087,,,0
+363,HS,2019,201903,March 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,422314034,,,0
+364,HS,2019,201904,April 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,488772462,,,0
+365,HS,2019,201905,May 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,466601831,,,0
+366,HS,2019,201901,January 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5772591,,,0
+367,HS,2019,201902,February 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9887883,,,0
+368,HS,2019,201903,March 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8513568,,,0
+369,HS,2019,201904,April 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8897720,,,0
+370,HS,2019,201905,May 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9634374,,,0
+371,HS,2019,201901,January 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,45695,,,0
+372,HS,2019,201902,February 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3610,,,0
+373,HS,2019,201903,March 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,99774,,,0
+374,HS,2019,201904,April 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26835,,,0
+375,HS,2019,201905,May 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,89932,,,0
+376,HS,2019,201901,January 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26860914,,,0
+377,HS,2019,201902,February 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,27635257,,,0
+378,HS,2019,201903,March 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23826073,,,0
+379,HS,2019,201904,April 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,32008810,,,0
+380,HS,2019,201905,May 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24428296,,,0
+381,HS,2019,201901,January 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,44412255,,,0
+382,HS,2019,201902,February 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60524724,,,0
+383,HS,2019,201903,March 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,60325485,,,0
+384,HS,2019,201904,April 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,57535030,,,0
+385,HS,2019,201905,May 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,52051326,,,0
+386,HS,2019,201901,January 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3767961,,,0
+387,HS,2019,201902,February 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2164980,,,0
+388,HS,2019,201903,March 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1525917,,,0
+389,HS,2019,201904,April 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1396567,,,0
+390,HS,2019,201905,May 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1483912,,,0
+391,HS,2019,201901,January 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1050107087,,,0
+392,HS,2019,201902,February 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,921893619,,,0
+393,HS,2019,201903,March 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1080929271,,,0
+394,HS,2019,201904,April 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1017148880,,,0
+395,HS,2019,201905,May 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1073684245,,,0
+396,HS,2019,201901,January 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,249975944,,,0
+397,HS,2019,201902,February 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,138792220,,,0
+398,HS,2019,201903,March 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,242656428,,,0
+399,HS,2019,201904,April 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,208377142,,,0
+400,HS,2019,201905,May 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,226781083,,,0
+401,HS,2019,201901,January 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,247306080,,,0
+402,HS,2019,201902,February 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,214503661,,,0
+403,HS,2019,201903,March 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,243448328,,,0
+404,HS,2019,201904,April 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,223001494,,,0
+405,HS,2019,201905,May 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,245485787,,,0
+406,HS,2019,201901,January 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,131669555,,,0
+407,HS,2019,201902,February 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,157589326,,,0
+408,HS,2019,201903,March 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,152657772,,,0
+409,HS,2019,201904,April 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,126922641,,,0
+410,HS,2019,201905,May 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,141836228,,,0
+411,HS,2019,201901,January 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,126671585,,,0
+412,HS,2019,201902,February 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,90143112,,,0
+413,HS,2019,201903,March 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,98213066,,,0
+414,HS,2019,201904,April 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,97894243,,,0
+415,HS,2019,201905,May 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,107707958,,,0
+416,HS,2019,201901,January 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,6474743,,,0
+417,HS,2019,201902,February 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7049905,,,0
+418,HS,2019,201903,March 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10236938,,,0
+419,HS,2019,201904,April 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,9534817,,,0
+420,HS,2019,201905,May 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10942987,,,0
+421,HS,2019,201901,January 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,850059429,,,0
+422,HS,2019,201902,February 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,784643251,,,0
+423,HS,2019,201903,March 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,937027008,,,0
+424,HS,2019,201904,April 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,886753787,,,0
+425,HS,2019,201905,May 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,972997869,,,0
+426,HS,2019,201901,January 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1895765,,,0
+427,HS,2019,201902,February 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2482504,,,0
+428,HS,2019,201903,March 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2097896,,,0
+429,HS,2019,201904,April 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1596103,,,0
+430,HS,2019,201905,May 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1985353,,,0
+431,HS,2019,201901,January 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,434364854,,,0
+432,HS,2019,201902,February 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,394294293,,,0
+433,HS,2019,201903,March 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,429725723,,,0
+434,HS,2019,201904,April 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,463568789,,,0
+435,HS,2019,201905,May 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,427577760,,,0
+436,HS,2019,201901,January 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,234619295,,,0
+437,HS,2019,201902,February 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,220807373,,,0
+438,HS,2019,201903,March 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,242214695,,,0
+439,HS,2019,201904,April 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,219731754,,,0
+440,HS,2019,201905,May 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,234579443,,,0
+441,HS,2019,201901,January 2019,2,0,1,Imports,764,Thailand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1117366643,,,0
+442,HS,2019,201902,February 2019,2,0,1,Imports,764,Thailand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,903088667,,,0
+443,HS,2019,201901,January 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7239323,,,0
+444,HS,2019,201902,February 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6683598,,,0
+445,HS,2019,201903,March 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7541100,,,0
+446,HS,2019,201904,April 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7988206,,,0
+447,HS,2019,201905,May 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11120313,,,0
+448,HS,2019,201901,January 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1160765236,,,0
+449,HS,2019,201902,February 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,930080989,,,0
+450,HS,2019,201903,March 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1240841064,,,0
+451,HS,2019,201904,April 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1570895199,,,0
+452,HS,2019,201905,May 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1397866508,,,0
+453,HS,2019,201901,January 2019,2,0,1,Imports,800,Uganda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,27512109,,,0
+454,HS,2019,201902,February 2019,2,0,1,Imports,800,Uganda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,26995274,,,0
+455,HS,2019,201903,March 2019,2,0,1,Imports,800,Uganda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,28800304,,,0
+456,HS,2019,201901,January 2019,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,80341136,,,0
+457,HS,2019,201902,February 2019,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,94834084,,,0
+458,HS,2019,201903,March 2019,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,96158465,,,0
+459,HS,2019,201901,January 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31842562,,,0
+460,HS,2019,201902,February 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,56366688,,,0
+461,HS,2019,201903,March 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,61638658,,,0
+462,HS,2019,201904,April 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,46573152,,,0
+463,HS,2019,201905,May 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,41165227,,,0
+464,HS,2019,201901,January 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,369259329,,,0
+465,HS,2019,201902,February 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,323412835,,,0
+466,HS,2019,201903,March 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,313780017,,,0
+467,HS,2019,201904,April 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,342553183,,,0
+468,HS,2019,201905,May 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,286496439,,,0
+469,HS,2019,201901,January 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,595909696,,,0
+470,HS,2019,201902,February 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,642352073,,,0
+471,HS,2019,201903,March 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,575517463,,,0
+472,HS,2019,201904,April 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,540589467,,,0
+473,HS,2019,201905,May 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,545912364,,,0
+474,HS,2019,201901,January 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2657994209,,,0
+475,HS,2019,201902,February 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2060676611,,,0
+476,HS,2019,201903,March 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2228375999,,,0
+477,HS,2019,201904,April 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2485117544,,,0
+478,HS,2019,201905,May 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2130699814,,,0
+479,HS,2019,201901,January 2019,2,0,1,Imports,858,Uruguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8375801,,,0
+480,HS,2019,201901,January 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,67920699,,,0
+481,HS,2019,201902,February 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,114021307,,,0
+482,HS,2019,201903,March 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,140650633,,,0
+483,HS,2019,201904,April 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,136235642,,,0
+484,HS,2019,201905,May 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,113739467,,,0
+485,HS,2019,201901,January 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15027279,,,0
+486,HS,2019,201902,February 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14556209,,,0
+487,HS,2019,201903,March 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19782584,,,0
+488,HS,2019,201904,April 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11966275,,,0
+489,HS,2019,201905,May 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8476808,,,0
+490,HS,2019,201901,January 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16905144,,,0
+491,HS,2019,201902,February 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,15288420,,,0
+492,HS,2019,201903,March 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13287616,,,0
+493,HS,2019,201904,April 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12973111,,,0
+494,HS,2019,201905,May 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,15413551,,,0
+495,HS,2019,201901,January 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,4142416965,,,0
+496,HS,2019,201902,February 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2833435724,,,0
+497,HS,2019,201903,March 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3552087976,,,0
+498,HS,2019,201904,April 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3615322999,,,0
+499,HS,2019,201905,May 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3799699742,,,0
+0,HS,2019,201906,June 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20048295,,,0
+1,HS,2019,201907,July 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10711581,,,0
+2,HS,2019,201908,August 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11947854,,,0
+3,HS,2019,201909,September 2019,2,0,1,Imports,24,Angola,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16158137,,,0
+4,HS,2019,201906,June 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,895358,,,0
+5,HS,2019,201907,July 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,636260,,,0
+6,HS,2019,201908,August 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1025933,,,0
+7,HS,2019,201909,September 2019,2,0,1,Imports,28,Antigua and Barbuda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,246078,,,0
+8,HS,2019,201906,June 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31904649,,,0
+9,HS,2019,201907,July 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,49393569,,,0
+10,HS,2019,201908,August 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35061296,,,0
+11,HS,2019,201909,September 2019,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,29181088,,,0
+12,HS,2019,201906,June 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,48164821,,,0
+13,HS,2019,201907,July 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,65105695,,,0
+14,HS,2019,201908,August 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,69811225,,,0
+15,HS,2019,201909,September 2019,2,0,1,Imports,32,Argentina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60214513,,,0
+16,HS,2019,201906,June 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,57547519,,,0
+17,HS,2019,201907,July 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,65135142,,,0
+18,HS,2019,201908,August 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,63792488,,,0
+19,HS,2019,201909,September 2019,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58844970,,,0
+20,HS,2019,201906,June 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9082693,,,0
+21,HS,2019,201907,July 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8163092,,,0
+22,HS,2019,201908,August 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8446670,,,0
+23,HS,2019,201909,September 2019,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8740230,,,0
+24,HS,2019,201906,June 2019,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,612674,,,0
+25,HS,2019,201906,June 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1033314232,,,0
+26,HS,2019,201907,July 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1113581454,,,0
+27,HS,2019,201908,August 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,747381702,,,0
+28,HS,2019,201909,September 2019,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,777534062,,,0
+29,HS,2019,201906,June 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,31413243,,,0
+30,HS,2019,201907,July 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,31124477,,,0
+31,HS,2019,201908,August 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25167344,,,0
+32,HS,2019,201909,September 2019,2,0,1,Imports,70,Bosnia Herzegovina,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26488715,,,0
+33,HS,2019,201906,June 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5274944,,,0
+34,HS,2019,201907,July 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5976910,,,0
+35,HS,2019,201908,August 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6096481,,,0
+36,HS,2019,201909,September 2019,2,0,1,Imports,72,Botswana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,6362430,,,0
+37,HS,2019,201906,June 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,151443171,,,0
+38,HS,2019,201907,July 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,214530200,,,0
+39,HS,2019,201908,August 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,210230235,,,0
+40,HS,2019,201909,September 2019,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,170085028,,,0
+41,HS,2019,201906,June 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1527004,,,0
+42,HS,2019,201907,July 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2571528,,,0
+43,HS,2019,201908,August 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1833494,,,0
+44,HS,2019,201909,September 2019,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1605609,,,0
+45,HS,2019,201906,June 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2377148068,,,0
+46,HS,2019,201907,July 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4047018565,,,0
+47,HS,2019,201908,August 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2218796941,,,0
+48,HS,2019,201909,September 2019,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2522630591,,,0
+49,HS,2019,201906,June 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,92903979,,,0
+50,HS,2019,201907,July 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,162014343,,,0
+51,HS,2019,201908,August 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,82110513,,,0
+52,HS,2019,201909,September 2019,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,102049574,,,0
+53,HS,2019,201906,June 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,135672300,,,0
+54,HS,2019,201907,July 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,161276900,,,0
+55,HS,2019,201908,August 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,153802700,,,0
+56,HS,2019,201909,September 2019,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,151153100,,,0
+57,HS,2019,201906,June 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,562571964,,,0
+58,HS,2019,201907,July 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,545884010,,,0
+59,HS,2019,201908,August 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,548426124,,,0
+60,HS,2019,201909,September 2019,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,463139680,,,0
+61,HS,2019,201906,June 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,90679906,,,0
+62,HS,2019,201907,July 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,113624486,,,0
+63,HS,2019,201908,August 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,144297206,,,0
+64,HS,2019,201909,September 2019,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,98655019,,,0
+65,HS,2019,201906,June 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,118498195,,,0
+66,HS,2019,201907,July 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,170039531,,,0
+67,HS,2019,201908,August 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,139756174,,,0
+68,HS,2019,201909,September 2019,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,144958519,,,0
+69,HS,2019,201906,June 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,976340,,,0
+70,HS,2019,201907,July 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,518981,,,0
+71,HS,2019,201908,August 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,859971,,,0
+72,HS,2019,201909,September 2019,2,0,1,Imports,174,Comoros,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,434207,,,0
+73,HS,2019,201906,June 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1628601,,,0
+74,HS,2019,201907,July 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1202457,,,0
+75,HS,2019,201908,August 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,758824,,,0
+76,HS,2019,201909,September 2019,2,0,1,Imports,178,Congo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,863748,,,0
+77,HS,2019,201906,June 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,44301271,,,0
+78,HS,2019,201907,July 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62019131,,,0
+79,HS,2019,201908,August 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,38171001,,,0
+80,HS,2019,201909,September 2019,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,49789782,,,0
+81,HS,2019,201906,June 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9460212,,,0
+82,HS,2019,201907,July 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,27768016,,,0
+83,HS,2019,201908,August 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1742151,,,0
+84,HS,2019,201909,September 2019,2,0,1,Imports,196,Cyprus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14850650,,,0
+85,HS,2019,201906,June 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,482341408,,,0
+86,HS,2019,201907,July 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,482479860,,,0
+87,HS,2019,201908,August 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,456417075,,,0
+88,HS,2019,201909,September 2019,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,490118740,,,0
+89,HS,2019,201906,June 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1625878,,,0
+90,HS,2019,201907,July 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14152755,,,0
+91,HS,2019,201908,August 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11322274,,,0
+92,HS,2019,201909,September 2019,2,0,1,Imports,204,Benin,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1323582,,,0
+93,HS,2019,201906,June 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,185922882,,,0
+94,HS,2019,201907,July 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,137367194,,,0
+95,HS,2019,201908,August 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,170652303,,,0
+96,HS,2019,201909,September 2019,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,149718944,,,0
+97,HS,2019,201906,June 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,33356470,,,0
+98,HS,2019,201907,July 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,52061674,,,0
+99,HS,2019,201908,August 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,68033569,,,0
+100,HS,2019,201909,September 2019,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,37582126,,,0
+101,HS,2019,201906,June 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,30231623,,,0
+102,HS,2019,201907,July 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,34517785,,,0
+103,HS,2019,201908,August 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20058572,,,0
+104,HS,2019,201909,September 2019,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,28851712,,,0
+105,HS,2019,201906,June 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,52348063,,,0
+106,HS,2019,201907,July 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,67164969,,,0
+107,HS,2019,201908,August 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,51077883,,,0
+108,HS,2019,201909,September 2019,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,44284883,,,0
+109,HS,2019,201906,June 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,206011137,,,0
+110,HS,2019,201907,July 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,174796242,,,0
+111,HS,2019,201908,August 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,246487244,,,0
+112,HS,2019,201909,September 2019,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,201367361,,,0
+113,HS,2019,201906,June 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18591290,,,0
+114,HS,2019,201907,July 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,17005504,,,0
+115,HS,2019,201908,August 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,14575732,,,0
+116,HS,2019,201909,September 2019,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13753634,,,0
+117,HS,2019,201906,June 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,680259,,,0
+118,HS,2019,201907,July 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,876998,,,0
+119,HS,2019,201908,August 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,365771,,,0
+120,HS,2019,201909,September 2019,2,0,1,Imports,270,Gambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1287828,,,0
+121,HS,2019,201906,June 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2241586870,,,0
+122,HS,2019,201907,July 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2384747422,,,0
+123,HS,2019,201908,August 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2036602685,,,0
+124,HS,2019,201909,September 2019,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2262988200,,,0
+125,HS,2019,201906,June 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31992175,,,0
+126,HS,2019,201907,July 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,40998217,,,0
+127,HS,2019,201908,August 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,37684066,,,0
+128,HS,2019,201909,September 2019,2,0,1,Imports,288,Ghana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15798138,,,0
+129,HS,2019,201906,June 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,84134469,,,0
+130,HS,2019,201907,July 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,125757957,,,0
+131,HS,2019,201908,August 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,79066010,,,0
+132,HS,2019,201909,September 2019,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,119447474,,,0
+133,HS,2019,201906,June 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35064186,,,0
+134,HS,2019,201907,July 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,67954025,,,0
+135,HS,2019,201908,August 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,65832248,,,0
+136,HS,2019,201909,September 2019,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,45764465,,,0
+137,HS,2019,201906,June 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,171710682,,,0
+138,HS,2019,201907,July 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,117032952,,,0
+139,HS,2019,201908,August 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,182531561,,,0
+140,HS,2019,201909,September 2019,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,158306807,,,0
+141,HS,2019,201906,June 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,209924075,,,0
+142,HS,2019,201907,July 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,227549927,,,0
+143,HS,2019,201908,August 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,178743434,,,0
+144,HS,2019,201909,September 2019,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,209965261,,,0
+145,HS,2019,201906,June 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3566440,,,0
+146,HS,2019,201907,July 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4706997,,,0
+147,HS,2019,201908,August 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4492359,,,0
+148,HS,2019,201909,September 2019,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5112881,,,0
+149,HS,2019,201906,June 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58822337,,,0
+150,HS,2019,201907,July 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,74443284,,,0
+151,HS,2019,201908,August 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,51499969,,,0
+152,HS,2019,201909,September 2019,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60141914,,,0
+153,HS,2019,201906,June 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,111602000,,,0
+154,HS,2019,201907,July 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,148847000,,,0
+155,HS,2019,201908,August 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,133988000,,,0
+156,HS,2019,201909,September 2019,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,113016000,,,0
+157,HS,2019,201906,June 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1589248118,,,0
+158,HS,2019,201907,July 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1944170551,,,0
+159,HS,2019,201908,August 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,930245963,,,0
+160,HS,2019,201909,September 2019,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1503321985,,,0
+161,HS,2019,201906,June 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,17772985,,,0
+162,HS,2019,201907,July 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,24164816,,,0
+163,HS,2019,201908,August 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10489808,,,0
+164,HS,2019,201909,September 2019,2,0,1,Imports,384,CÃ´te d'Ivoire,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26608113,,,0
+165,HS,2019,201906,June 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,608025778,,,0
+166,HS,2019,201907,July 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,672766479,,,0
+167,HS,2019,201908,August 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,579060890,,,0
+168,HS,2019,201909,September 2019,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,580499700,,,0
+169,HS,2019,201906,June 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,95313056,,,0
+170,HS,2019,201907,July 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,129314014,,,0
+171,HS,2019,201908,August 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,118458034,,,0
+172,HS,2019,201909,September 2019,2,0,1,Imports,398,Kazakhstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,114313467,,,0
+173,HS,2019,201906,June 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1277060981,,,0
+174,HS,2019,201907,July 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1292222304,,,0
+175,HS,2019,201908,August 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1143177138,,,0
+176,HS,2019,201909,September 2019,2,0,1,Imports,410,Rep. of Korea,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1170384217,,,0
+177,HS,2019,201906,June 2019,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18859851,,,0
+178,HS,2019,201907,July 2019,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14200629,,,0
+179,HS,2019,201908,August 2019,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17290927,,,0
+180,HS,2019,201906,June 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18841996,,,0
+181,HS,2019,201907,July 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17034649,,,0
+182,HS,2019,201908,August 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18003687,,,0
+183,HS,2019,201909,September 2019,2,0,1,Imports,418,Lao People's Dem. Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22875708,,,0
+184,HS,2019,201906,June 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,36168096,,,0
+185,HS,2019,201907,July 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,55624603,,,0
+186,HS,2019,201908,August 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,40734233,,,0
+187,HS,2019,201909,September 2019,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,44363200,,,0
+188,HS,2019,201906,June 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,53629447,,,0
+189,HS,2019,201907,July 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,87454977,,,0
+190,HS,2019,201908,August 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64199984,,,0
+191,HS,2019,201909,September 2019,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60936831,,,0
+192,HS,2019,201906,June 2019,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,105954527,,,0
+193,HS,2019,201907,July 2019,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,117400112,,,0
+194,HS,2019,201908,August 2019,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,106022864,,,0
+195,HS,2019,201906,June 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7473918,,,0
+196,HS,2019,201907,July 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6363224,,,0
+197,HS,2019,201908,August 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6792703,,,0
+198,HS,2019,201909,September 2019,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12822698,,,0
+199,HS,2019,201906,June 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6001575,,,0
+200,HS,2019,201907,July 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5724458,,,0
+201,HS,2019,201908,August 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8578080,,,0
+202,HS,2019,201909,September 2019,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7698450,,,0
+203,HS,2019,201906,June 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1870257,,,0
+204,HS,2019,201907,July 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,4937542,,,0
+205,HS,2019,201908,August 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2400754,,,0
+206,HS,2019,201909,September 2019,2,0,1,Imports,470,Malta,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3526081,,,0
+207,HS,2019,201906,June 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5248567,,,0
+208,HS,2019,201907,July 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7216819,,,0
+209,HS,2019,201908,August 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6144951,,,0
+210,HS,2019,201909,September 2019,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5769421,,,0
+211,HS,2019,201906,June 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,839399158,,,0
+212,HS,2019,201907,July 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,888529087,,,0
+213,HS,2019,201908,August 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,947002983,,,0
+214,HS,2019,201909,September 2019,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,832465564,,,0
+215,HS,2019,201906,June 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24516070,,,0
+216,HS,2019,201907,July 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20959160,,,0
+217,HS,2019,201908,August 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22669557,,,0
+218,HS,2019,201909,September 2019,2,0,1,Imports,496,Mongolia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16399917,,,0
+219,HS,2019,201906,June 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8660294,,,0
+220,HS,2019,201907,July 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10615311,,,0
+221,HS,2019,201908,August 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10618836,,,0
+222,HS,2019,201909,September 2019,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9446239,,,0
+223,HS,2019,201906,June 2019,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6339820,,,0
+224,HS,2019,201907,July 2019,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5873395,,,0
+225,HS,2019,201908,August 2019,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5362858,,,0
+226,HS,2019,201906,June 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,99408420,,,0
+227,HS,2019,201907,July 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,123243406,,,0
+228,HS,2019,201908,August 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,95763230,,,0
+229,HS,2019,201909,September 2019,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,130855081,,,0
+230,HS,2019,201906,June 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25883406,,,0
+231,HS,2019,201907,July 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26644222,,,0
+232,HS,2019,201908,August 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35433707,,,0
+233,HS,2019,201909,September 2019,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26941073,,,0
+234,HS,2019,201906,June 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,75264214,,,0
+235,HS,2019,201907,July 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,55043484,,,0
+236,HS,2019,201908,August 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,71186512,,,0
+237,HS,2019,201909,September 2019,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,69246344,,,0
+238,HS,2019,201906,June 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,299522468,,,0
+239,HS,2019,201907,July 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,224188368,,,0
+240,HS,2019,201908,August 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,251746993,,,0
+241,HS,2019,201909,September 2019,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,222540072,,,0
+242,HS,2019,201906,June 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19869999,,,0
+243,HS,2019,201907,July 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23252837,,,0
+244,HS,2019,201908,August 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22174827,,,0
+245,HS,2019,201909,September 2019,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,23640500,,,0
+246,HS,2019,201906,June 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,112579833,,,0
+247,HS,2019,201907,July 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,111542925,,,0
+248,HS,2019,201908,August 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,134465795,,,0
+249,HS,2019,201909,September 2019,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,122726913,,,0
+250,HS,2019,201907,July 2019,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,299078683,,,0
+251,HS,2019,201908,August 2019,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,268819777,,,0
+252,HS,2019,201909,September 2019,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,282309142,,,0
+253,HS,2019,201906,June 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,711040624,,,0
+254,HS,2019,201907,July 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,833161555,,,0
+255,HS,2019,201908,August 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,700271467,,,0
+256,HS,2019,201909,September 2019,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,715756186,,,0
+257,HS,2019,201906,June 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,235765615,,,0
+258,HS,2019,201907,July 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,264694982,,,0
+259,HS,2019,201908,August 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,177373056,,,0
+260,HS,2019,201909,September 2019,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,215911324,,,0
+261,HS,2019,201906,June 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29421327,,,0
+262,HS,2019,201907,July 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,30638286,,,0
+263,HS,2019,201908,August 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31723058,,,0
+264,HS,2019,201909,September 2019,2,0,1,Imports,634,Qatar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,34157058,,,0
+265,HS,2019,201906,June 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,218806804,,,0
+266,HS,2019,201907,July 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,348580515,,,0
+267,HS,2019,201908,August 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,218721993,,,0
+268,HS,2019,201909,September 2019,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,251543066,,,0
+269,HS,2019,201906,June 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,481927254,,,0
+270,HS,2019,201907,July 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,561184904,,,0
+271,HS,2019,201908,August 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,463231145,,,0
+272,HS,2019,201909,September 2019,2,0,1,Imports,643,Russian Federation,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,392635855,,,0
+273,HS,2019,201906,June 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6274045,,,0
+274,HS,2019,201907,July 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6615813,,,0
+275,HS,2019,201908,August 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10138890,,,0
+276,HS,2019,201909,September 2019,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12217061,,,0
+277,HS,2019,201906,June 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23160,,,0
+278,HS,2019,201907,July 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109084,,,0
+279,HS,2019,201908,August 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,42693,,,0
+280,HS,2019,201909,September 2019,2,0,1,Imports,678,Sao Tome and Principe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,236893,,,0
+281,HS,2019,201906,June 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,42096942,,,0
+282,HS,2019,201907,July 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26065450,,,0
+283,HS,2019,201908,August 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16906428,,,0
+284,HS,2019,201909,September 2019,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,21421162,,,0
+285,HS,2019,201906,June 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,63813925,,,0
+286,HS,2019,201907,July 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,54502336,,,0
+287,HS,2019,201908,August 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,46430667,,,0
+288,HS,2019,201909,September 2019,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,55856266,,,0
+289,HS,2019,201906,June 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1753795,,,0
+290,HS,2019,201907,July 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2612181,,,0
+291,HS,2019,201908,August 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1795918,,,0
+292,HS,2019,201909,September 2019,2,0,1,Imports,690,Seychelles,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1304487,,,0
+293,HS,2019,201906,June 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1047472661,,,0
+294,HS,2019,201907,July 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1141517213,,,0
+295,HS,2019,201908,August 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1277530915,,,0
+296,HS,2019,201909,September 2019,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,852609689,,,0
+297,HS,2019,201906,June 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,207194083,,,0
+298,HS,2019,201907,July 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,276120092,,,0
+299,HS,2019,201908,August 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,208310287,,,0
+300,HS,2019,201909,September 2019,2,0,1,Imports,702,Singapore,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,213558542,,,0
+301,HS,2019,201906,June 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,202642356,,,0
+302,HS,2019,201907,July 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,246218131,,,0
+303,HS,2019,201908,August 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,181352436,,,0
+304,HS,2019,201909,September 2019,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,217709976,,,0
+305,HS,2019,201906,June 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,115588130,,,0
+306,HS,2019,201907,July 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,138663777,,,0
+307,HS,2019,201908,August 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,97961440,,,0
+308,HS,2019,201909,September 2019,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,128477162,,,0
+309,HS,2019,201906,June 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,79945954,,,0
+310,HS,2019,201907,July 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,111380073,,,0
+311,HS,2019,201908,August 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,100780880,,,0
+312,HS,2019,201909,September 2019,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,84110651,,,0
+313,HS,2019,201906,June 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8425322,,,0
+314,HS,2019,201907,July 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8115772,,,0
+315,HS,2019,201908,August 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9988607,,,0
+316,HS,2019,201909,September 2019,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11348000,,,0
+317,HS,2019,201906,June 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,764802141,,,0
+318,HS,2019,201907,July 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,976323139,,,0
+319,HS,2019,201908,August 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,580079092,,,0
+320,HS,2019,201909,September 2019,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,807216382,,,0
+321,HS,2019,201906,June 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2591461,,,0
+322,HS,2019,201907,July 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2085328,,,0
+323,HS,2019,201908,August 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2619059,,,0
+324,HS,2019,201909,September 2019,2,0,1,Imports,748,Swaziland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2251688,,,0
+325,HS,2019,201906,June 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,338189769,,,0
+326,HS,2019,201907,July 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,285633850,,,0
+327,HS,2019,201908,August 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,337396089,,,0
+328,HS,2019,201909,September 2019,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,357854475,,,0
+329,HS,2019,201906,June 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,203215872,,,0
+330,HS,2019,201907,July 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,212542842,,,0
+331,HS,2019,201908,August 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,162368768,,,0
+332,HS,2019,201909,September 2019,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,203585661,,,0
+333,HS,2019,201906,June 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2320523,,,0
+334,HS,2019,201907,July 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10682475,,,0
+335,HS,2019,201908,August 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6973175,,,0
+336,HS,2019,201909,September 2019,2,0,1,Imports,768,Togo,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6062264,,,0
+337,HS,2019,201906,June 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1117531583,,,0
+338,HS,2019,201907,July 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1383827679,,,0
+339,HS,2019,201908,August 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1287572738,,,0
+340,HS,2019,201909,September 2019,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1313324685,,,0
+341,HS,2019,201907,July 2019,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,140441667,,,0
+342,HS,2019,201908,August 2019,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,115533555,,,0
+343,HS,2019,201909,September 2019,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,106255058,,,0
+344,HS,2019,201906,June 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,32451641,,,0
+345,HS,2019,201907,July 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,41587052,,,0
+346,HS,2019,201908,August 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35180165,,,0
+347,HS,2019,201909,September 2019,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,39833717,,,0
+348,HS,2019,201906,June 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,245834341,,,0
+349,HS,2019,201907,July 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,357235076,,,0
+350,HS,2019,201908,August 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,333350821,,,0
+351,HS,2019,201909,September 2019,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,336319131,,,0
+352,HS,2019,201906,June 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,428602952,,,0
+353,HS,2019,201907,July 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,536898352,,,0
+354,HS,2019,201908,August 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,401784752,,,0
+355,HS,2019,201909,September 2019,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,405749878,,,0
+356,HS,2019,201906,June 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2138212810,,,0
+357,HS,2019,201907,July 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2254571728,,,0
+358,HS,2019,201908,August 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1933987983,,,0
+359,HS,2019,201909,September 2019,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1783430750,,,0
+360,HS,2019,201906,June 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,98477593,,,0
+361,HS,2019,201907,July 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,120426126,,,0
+362,HS,2019,201908,August 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,126873849,,,0
+363,HS,2019,201909,September 2019,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,113225201,,,0
+364,HS,2019,201906,June 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6896424,,,0
+365,HS,2019,201907,July 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26467707,,,0
+366,HS,2019,201908,August 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11883144,,,0
+367,HS,2019,201909,September 2019,2,0,1,Imports,887,Yemen,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25193874,,,0
+368,HS,2019,201906,June 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17081132,,,0
+369,HS,2019,201907,July 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,17574201,,,0
+370,HS,2019,201908,August 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19163713,,,0
+371,HS,2019,201909,September 2019,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16859526,,,0
+372,HS,2019,201906,June 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3233711870,,,0
+373,HS,2019,201907,July 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3827712174,,,0
+374,HS,2019,201908,August 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3692913392,,,0
+375,HS,2019,201909,September 2019,2,0,1,Imports,975,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3538406711,,,0

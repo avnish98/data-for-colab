@@ -1,0 +1,1080 @@
+,Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+0,HS,2020,202001,January 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,41551296,,,0
+1,HS,2020,202001,January 2020,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1457186,,,0
+2,HS,2020,202002,February 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,33558411,,,0
+3,HS,2020,202002,February 2020,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2055280,,,0
+4,HS,2020,202003,March 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,43796883,,,0
+5,HS,2020,202003,March 2020,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2116063,,,0
+6,HS,2020,202004,April 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,39261501,,,0
+7,HS,2020,202004,April 2020,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1759998,,,0
+8,HS,2020,202005,May 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,27441636,,,0
+9,HS,2020,202005,May 2020,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1670471,,,0
+10,HS,2020,202006,June 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,24544327,,,0
+11,HS,2020,202006,June 2020,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1087581,,,0
+12,HS,2020,202007,July 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29165144,,,0
+13,HS,2020,202007,July 2020,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3272005,,,0
+14,HS,2020,202008,August 2020,2,0,1,Imports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,27509967,,,0
+15,HS,2020,202008,August 2020,2,0,2,Exports,31,Azerbaijan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2457512,,,0
+16,HS,2020,202001,January 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,85739867,,,0
+17,HS,2020,202001,January 2020,2,0,2,Exports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,69812391,,,0
+18,HS,2020,202001,January 2020,2,0,4,Re-imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,43298,,,0
+19,HS,2020,202002,February 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,54484350,,,0
+20,HS,2020,202002,February 2020,2,0,2,Exports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,86707052,,,0
+21,HS,2020,202002,February 2020,2,0,4,Re-imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6770,,,0
+22,HS,2020,202003,March 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,52253499,,,0
+23,HS,2020,202003,March 2020,2,0,2,Exports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,129246199,,,0
+24,HS,2020,202003,March 2020,2,0,4,Re-imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,80754,,,0
+25,HS,2020,202004,April 2020,2,0,1,Imports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58163578,,,0
+26,HS,2020,202004,April 2020,2,0,2,Exports,36,Australia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,124532936,,,0
+27,HS,2020,202001,January 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5728721,,,0
+28,HS,2020,202001,January 2020,2,0,2,Exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10068530,,,0
+29,HS,2020,202002,February 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6133307,,,0
+30,HS,2020,202002,February 2020,2,0,2,Exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7609458,,,0
+31,HS,2020,202002,February 2020,2,0,3,Re-exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14580,,,0
+32,HS,2020,202003,March 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5663928,,,0
+33,HS,2020,202003,March 2020,2,0,2,Exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13731176,,,0
+34,HS,2020,202004,April 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,6280375,,,0
+35,HS,2020,202004,April 2020,2,0,2,Exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11274343,,,0
+36,HS,2020,202005,May 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12436243,,,0
+37,HS,2020,202005,May 2020,2,0,2,Exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8162103,,,0
+38,HS,2020,202006,June 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11104567,,,0
+39,HS,2020,202006,June 2020,2,0,2,Exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8757140,,,0
+40,HS,2020,202007,July 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10489369,,,0
+41,HS,2020,202007,July 2020,2,0,2,Exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7859386,,,0
+42,HS,2020,202007,July 2020,2,0,3,Re-exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23481,,,0
+43,HS,2020,202008,August 2020,2,0,1,Imports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10350253,,,0
+44,HS,2020,202008,August 2020,2,0,2,Exports,51,Armenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4423332,,,0
+45,HS,2020,202001,January 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1081658,,,0
+46,HS,2020,202001,January 2020,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,440257,,,0
+47,HS,2020,202002,February 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,452724,,,0
+48,HS,2020,202002,February 2020,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,423813,,,0
+49,HS,2020,202003,March 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,532165,,,0
+50,HS,2020,202003,March 2020,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,850682,,,0
+51,HS,2020,202004,April 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,193233,,,0
+52,HS,2020,202005,May 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1761686,,,0
+53,HS,2020,202005,May 2020,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,79020,,,0
+54,HS,2020,202006,June 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,788909,,,0
+55,HS,2020,202006,June 2020,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,620864,,,0
+56,HS,2020,202007,July 2020,2,0,1,Imports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1778628,,,0
+57,HS,2020,202007,July 2020,2,0,2,Exports,52,Barbados,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1043225,,,0
+58,HS,2020,202001,January 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,670633897,,,0
+59,HS,2020,202001,January 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1136195448,,,0
+60,HS,2020,202002,February 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,638805812,,,0
+61,HS,2020,202002,February 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1016420964,,,0
+62,HS,2020,202004,April 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,567368861,,,0
+63,HS,2020,202004,April 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,640346830,,,0
+64,HS,2020,202005,May 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,517043981,,,0
+65,HS,2020,202005,May 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,713090745,,,0
+66,HS,2020,202006,June 2020,2,0,1,Imports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,617585110,,,0
+67,HS,2020,202006,June 2020,2,0,2,Exports,56,Belgium,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,804877587,,,0
+68,HS,2020,202001,January 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,193294208,,,0
+69,HS,2020,202001,January 2020,2,0,2,Exports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,735049821,,,0
+70,HS,2020,202001,January 2020,2,0,4,Re-imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31230,,,0
+71,HS,2020,202002,February 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,118040485,,,0
+72,HS,2020,202002,February 2020,2,0,2,Exports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,690785981,,,0
+73,HS,2020,202002,February 2020,2,0,4,Re-imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20965,,,0
+74,HS,2020,202003,March 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,142369305,,,0
+75,HS,2020,202003,March 2020,2,0,2,Exports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1038723945,,,0
+76,HS,2020,202003,March 2020,2,0,4,Re-imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,87069,,,0
+77,HS,2020,202004,April 2020,2,0,1,Imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,150417972,,,0
+78,HS,2020,202004,April 2020,2,0,2,Exports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,763001403,,,0
+79,HS,2020,202004,April 2020,2,0,4,Re-imports,76,Brazil,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14281,,,0
+80,HS,2020,202001,January 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2225254,,,0
+81,HS,2020,202001,January 2020,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,77336,,,0
+82,HS,2020,202002,February 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1336417,,,0
+83,HS,2020,202002,February 2020,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,86009,,,0
+84,HS,2020,202002,February 2020,2,0,3,Re-exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10,,,0
+85,HS,2020,202003,March 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1531853,,,0
+86,HS,2020,202003,March 2020,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,120457,,,0
+87,HS,2020,202004,April 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1213086,,,0
+88,HS,2020,202004,April 2020,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26261,,,0
+89,HS,2020,202005,May 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1210119,,,0
+90,HS,2020,202005,May 2020,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,63451,,,0
+91,HS,2020,202006,June 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1111888,,,0
+92,HS,2020,202006,June 2020,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58419,,,0
+93,HS,2020,202007,July 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1191819,,,0
+94,HS,2020,202007,July 2020,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,77134,,,0
+95,HS,2020,202008,August 2020,2,0,1,Imports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1759554,,,0
+96,HS,2020,202008,August 2020,2,0,2,Exports,84,Belize,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,68270,,,0
+97,HS,2020,202001,January 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2812842672,,,0
+98,HS,2020,202001,January 2020,2,0,2,Exports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2363805975,,,0
+99,HS,2020,202002,February 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2447621471,,,0
+100,HS,2020,202002,February 2020,2,0,2,Exports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2430696486,,,0
+101,HS,2020,202003,March 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2421386681,,,0
+102,HS,2020,202003,March 2020,2,0,2,Exports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2310883658,,,0
+103,HS,2020,202004,April 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2472713846,,,0
+104,HS,2020,202004,April 2020,2,0,2,Exports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1855783870,,,0
+105,HS,2020,202005,May 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1983948710,,,0
+106,HS,2020,202005,May 2020,2,0,2,Exports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1756588281,,,0
+107,HS,2020,202006,June 2020,2,0,1,Imports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1971932577,,,0
+108,HS,2020,202006,June 2020,2,0,2,Exports,97,EU-28,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1961526275,,,0
+109,HS,2020,202001,January 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,116306887,,,0
+110,HS,2020,202001,January 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,52045162,,,0
+111,HS,2020,202002,February 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,103110676,,,0
+112,HS,2020,202002,February 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59418926,,,0
+113,HS,2020,202003,March 2020,2,0,1,Imports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,103228070,,,0
+114,HS,2020,202003,March 2020,2,0,2,Exports,100,Bulgaria,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59223197,,,0
+115,HS,2020,202001,January 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,115712100,,,0
+116,HS,2020,202001,January 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,84126500,,,0
+117,HS,2020,202002,February 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,125562400,,,0
+118,HS,2020,202002,February 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,79871900,,,0
+119,HS,2020,202005,May 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,102686600,,,0
+120,HS,2020,202005,May 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64409000,,,0
+121,HS,2020,202006,June 2020,2,0,1,Imports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109191000,,,0
+122,HS,2020,202006,June 2020,2,0,2,Exports,112,Belarus,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64283800,,,0
+123,HS,2020,202001,January 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,517412969,,,0
+124,HS,2020,202001,January 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,521850065,,,0
+125,HS,2020,202001,January 2020,2,0,3,Re-exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9281855,,,0
+126,HS,2020,202001,January 2020,2,0,4,Re-imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4127010,,,0
+127,HS,2020,202002,February 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,433148280,,,0
+128,HS,2020,202002,February 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,475203750,,,0
+129,HS,2020,202002,February 2020,2,0,3,Re-exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9459523,,,0
+130,HS,2020,202002,February 2020,2,0,4,Re-imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4365687,,,0
+131,HS,2020,202003,March 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,454971282,,,0
+132,HS,2020,202003,March 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,555194352,,,0
+133,HS,2020,202003,March 2020,2,0,3,Re-exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,9290078,,,0
+134,HS,2020,202003,March 2020,2,0,4,Re-imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4335449,,,0
+135,HS,2020,202004,April 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,396401684,,,0
+136,HS,2020,202004,April 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,326061991,,,0
+137,HS,2020,202004,April 2020,2,0,3,Re-exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4225359,,,0
+138,HS,2020,202004,April 2020,2,0,4,Re-imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2980164,,,0
+139,HS,2020,202005,May 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,345602881,,,0
+140,HS,2020,202005,May 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,310537561,,,0
+141,HS,2020,202005,May 2020,2,0,3,Re-exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5497411,,,0
+142,HS,2020,202005,May 2020,2,0,4,Re-imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3088852,,,0
+143,HS,2020,202006,June 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,384405411,,,0
+144,HS,2020,202006,June 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,395409731,,,0
+145,HS,2020,202006,June 2020,2,0,3,Re-exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4942308,,,0
+146,HS,2020,202006,June 2020,2,0,4,Re-imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3634236,,,0
+147,HS,2020,202007,July 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,392034726,,,0
+148,HS,2020,202007,July 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,421343545,,,0
+149,HS,2020,202007,July 2020,2,0,3,Re-exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6533699,,,0
+150,HS,2020,202007,July 2020,2,0,4,Re-imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5363974,,,0
+151,HS,2020,202008,August 2020,2,0,1,Imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,381533964,,,0
+152,HS,2020,202008,August 2020,2,0,2,Exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,440404547,,,0
+153,HS,2020,202008,August 2020,2,0,3,Re-exports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6744985,,,0
+154,HS,2020,202008,August 2020,2,0,4,Re-imports,124,Canada,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5696692,,,0
+155,HS,2020,202001,January 2020,2,0,1,Imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,126977357,,,0
+156,HS,2020,202001,January 2020,2,0,2,Exports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,38516339,,,0
+157,HS,2020,202001,January 2020,2,0,4,Re-imports,152,Chile,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,56275,,,0
+158,HS,2020,202001,January 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,136734393,,,0
+159,HS,2020,202001,January 2020,2,0,2,Exports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,43551952,,,0
+160,HS,2020,202002,February 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,116504985,,,0
+161,HS,2020,202002,February 2020,2,0,2,Exports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4711429,,,0
+162,HS,2020,202002,February 2020,2,0,4,Re-imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,86804,,,0
+163,HS,2020,202003,March 2020,2,0,1,Imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,102658235,,,0
+164,HS,2020,202003,March 2020,2,0,2,Exports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,54276676,,,0
+165,HS,2020,202003,March 2020,2,0,4,Re-imports,170,Colombia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1458,,,0
+166,HS,2020,202001,January 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,42939731,,,0
+167,HS,2020,202001,January 2020,2,0,2,Exports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13398587,,,0
+168,HS,2020,202002,February 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,39003315,,,0
+169,HS,2020,202002,February 2020,2,0,2,Exports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14839868,,,0
+170,HS,2020,202003,March 2020,2,0,1,Imports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,41865641,,,0
+171,HS,2020,202003,March 2020,2,0,2,Exports,188,Costa Rica,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15157768,,,0
+172,HS,2020,202001,January 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,48449802,,,0
+173,HS,2020,202001,January 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,15874403,,,0
+174,HS,2020,202002,February 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,56219713,,,0
+175,HS,2020,202002,February 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16695843,,,0
+176,HS,2020,202003,March 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,46534274,,,0
+177,HS,2020,202003,March 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18244460,,,0
+178,HS,2020,202004,April 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,48423866,,,0
+179,HS,2020,202004,April 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12293578,,,0
+180,HS,2020,202005,May 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,48068683,,,0
+181,HS,2020,202005,May 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11931968,,,0
+182,HS,2020,202006,June 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,50897561,,,0
+183,HS,2020,202006,June 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14844103,,,0
+184,HS,2020,202007,July 2020,2,0,1,Imports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60127033,,,0
+185,HS,2020,202007,July 2020,2,0,2,Exports,191,Croatia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15814457,,,0
+186,HS,2020,202001,January 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,481247491,,,0
+187,HS,2020,202001,January 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,337623725,,,0
+188,HS,2020,202002,February 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,449439881,,,0
+189,HS,2020,202002,February 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,321944454,,,0
+190,HS,2020,202003,March 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,439698871,,,0
+191,HS,2020,202003,March 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,335147077,,,0
+192,HS,2020,202004,April 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,341917832,,,0
+193,HS,2020,202004,April 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,255855545,,,0
+194,HS,2020,202005,May 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,342972340,,,0
+195,HS,2020,202005,May 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,248031798,,,0
+196,HS,2020,202006,June 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,382798903,,,0
+197,HS,2020,202006,June 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,267999680,,,0
+198,HS,2020,202007,July 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,384505549,,,0
+199,HS,2020,202007,July 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,267287768,,,0
+200,HS,2020,202008,August 2020,2,0,1,Imports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,388010702,,,0
+201,HS,2020,202008,August 2020,2,0,2,Exports,203,Czech Rep.,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,263462268,,,0
+202,HS,2020,202001,January 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,172890699,,,0
+203,HS,2020,202001,January 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,114605146,,,0
+204,HS,2020,202002,February 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,179240607,,,0
+205,HS,2020,202002,February 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,110927230,,,0
+206,HS,2020,202003,March 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,164603707,,,0
+207,HS,2020,202003,March 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,123146146,,,0
+208,HS,2020,202004,April 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,155000401,,,0
+209,HS,2020,202004,April 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,94222453,,,0
+210,HS,2020,202005,May 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,161281172,,,0
+211,HS,2020,202005,May 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,94344694,,,0
+212,HS,2020,202006,June 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,146597553,,,0
+213,HS,2020,202006,June 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,98619167,,,0
+214,HS,2020,202007,July 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,106720174,,,0
+215,HS,2020,202007,July 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,63299510,,,0
+216,HS,2020,202008,August 2020,2,0,1,Imports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,143119880,,,0
+217,HS,2020,202008,August 2020,2,0,2,Exports,208,Denmark,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,84031238,,,0
+218,HS,2020,202001,January 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58412193,,,0
+219,HS,2020,202001,January 2020,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1224028,,,0
+220,HS,2020,202002,February 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,36802553,,,0
+221,HS,2020,202002,February 2020,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2173105,,,0
+222,HS,2020,202003,March 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,45912944,,,0
+223,HS,2020,202003,March 2020,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1899385,,,0
+224,HS,2020,202005,May 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,43938611,,,0
+225,HS,2020,202005,May 2020,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1272800,,,0
+226,HS,2020,202006,June 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,50861112,,,0
+227,HS,2020,202006,June 2020,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,798217,,,0
+228,HS,2020,202007,July 2020,2,0,1,Imports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,38225589,,,0
+229,HS,2020,202007,July 2020,2,0,2,Exports,218,Ecuador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1333336,,,0
+230,HS,2020,202001,January 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,30440565,,,0
+231,HS,2020,202001,January 2020,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11939650,,,0
+232,HS,2020,202002,February 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25869958,,,0
+233,HS,2020,202002,February 2020,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10071234,,,0
+234,HS,2020,202003,March 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,32866856,,,0
+235,HS,2020,202003,March 2020,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7741071,,,0
+236,HS,2020,202004,April 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13184255,,,0
+237,HS,2020,202004,April 2020,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4944386,,,0
+238,HS,2020,202005,May 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19604821,,,0
+239,HS,2020,202005,May 2020,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8193227,,,0
+240,HS,2020,202006,June 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19970073,,,0
+241,HS,2020,202006,June 2020,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8184127,,,0
+242,HS,2020,202007,July 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14071759,,,0
+243,HS,2020,202007,July 2020,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8665029,,,0
+244,HS,2020,202008,August 2020,2,0,1,Imports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20282361,,,0
+245,HS,2020,202008,August 2020,2,0,2,Exports,222,El Salvador,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8760396,,,0
+246,HS,2020,202001,January 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47171395,,,0
+247,HS,2020,202001,January 2020,2,0,2,Exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25173331,,,0
+248,HS,2020,202001,January 2020,2,0,4,Re-imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2587,,,0
+249,HS,2020,202002,February 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,43045395,,,0
+250,HS,2020,202002,February 2020,2,0,2,Exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,28351416,,,0
+251,HS,2020,202002,February 2020,2,0,4,Re-imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,636,,,0
+252,HS,2020,202003,March 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,49836549,,,0
+253,HS,2020,202003,March 2020,2,0,2,Exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23605155,,,0
+254,HS,2020,202003,March 2020,2,0,4,Re-imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,189,,,0
+255,HS,2020,202004,April 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47612304,,,0
+256,HS,2020,202004,April 2020,2,0,2,Exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,21789360,,,0
+257,HS,2020,202005,May 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,30868461,,,0
+258,HS,2020,202005,May 2020,2,0,2,Exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22938215,,,0
+259,HS,2020,202005,May 2020,2,0,3,Re-exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22826454,,,0
+260,HS,2020,202006,June 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,34367934,,,0
+261,HS,2020,202006,June 2020,2,0,2,Exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20793567,,,0
+262,HS,2020,202006,June 2020,2,0,3,Re-exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20711380,,,0
+263,HS,2020,202006,June 2020,2,0,4,Re-imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13180,,,0
+264,HS,2020,202007,July 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,43716496,,,0
+265,HS,2020,202007,July 2020,2,0,2,Exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,27440404,,,0
+266,HS,2020,202007,July 2020,2,0,3,Re-exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,27336188,,,0
+267,HS,2020,202007,July 2020,2,0,4,Re-imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,223,,,0
+268,HS,2020,202008,August 2020,2,0,1,Imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,44945025,,,0
+269,HS,2020,202008,August 2020,2,0,2,Exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18113739,,,0
+270,HS,2020,202008,August 2020,2,0,3,Re-exports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18113739,,,0
+271,HS,2020,202008,August 2020,2,0,4,Re-imports,233,Estonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17340,,,0
+272,HS,2020,202001,January 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,206237799,,,0
+273,HS,2020,202001,January 2020,2,0,2,Exports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,387683665,,,0
+274,HS,2020,202002,February 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,191557823,,,0
+275,HS,2020,202002,February 2020,2,0,2,Exports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,340293799,,,0
+276,HS,2020,202003,March 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,184554917,,,0
+277,HS,2020,202003,March 2020,2,0,2,Exports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,388287562,,,0
+278,HS,2020,202004,April 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,181691198,,,0
+279,HS,2020,202004,April 2020,2,0,2,Exports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,305620504,,,0
+280,HS,2020,202005,May 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,180545334,,,0
+281,HS,2020,202005,May 2020,2,0,2,Exports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,306540128,,,0
+282,HS,2020,202006,June 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,184798528,,,0
+283,HS,2020,202006,June 2020,2,0,2,Exports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,279334361,,,0
+284,HS,2020,202007,July 2020,2,0,1,Imports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,182707570,,,0
+285,HS,2020,202007,July 2020,2,0,2,Exports,246,Finland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,255893861,,,0
+286,HS,2020,202001,January 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15551878,,,0
+287,HS,2020,202001,January 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19221091,,,0
+288,HS,2020,202001,January 2020,2,0,3,Re-exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,201759,,,0
+289,HS,2020,202002,February 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12893362,,,0
+290,HS,2020,202002,February 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29706618,,,0
+291,HS,2020,202002,February 2020,2,0,3,Re-exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,352352,,,0
+292,HS,2020,202002,February 2020,2,0,4,Re-imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14580,,,0
+293,HS,2020,202003,March 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18075788,,,0
+294,HS,2020,202003,March 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19667471,,,0
+295,HS,2020,202003,March 2020,2,0,3,Re-exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,245655,,,0
+296,HS,2020,202004,April 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12387608,,,0
+297,HS,2020,202004,April 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35609175,,,0
+298,HS,2020,202004,April 2020,2,0,3,Re-exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,212870,,,0
+299,HS,2020,202005,May 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14340602,,,0
+300,HS,2020,202005,May 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18153899,,,0
+301,HS,2020,202005,May 2020,2,0,3,Re-exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,380713,,,0
+302,HS,2020,202006,June 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11955206,,,0
+303,HS,2020,202006,June 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10456923,,,0
+304,HS,2020,202006,June 2020,2,0,3,Re-exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,280891,,,0
+305,HS,2020,202007,July 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20110157,,,0
+306,HS,2020,202007,July 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13237433,,,0
+307,HS,2020,202007,July 2020,2,0,3,Re-exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,186376,,,0
+308,HS,2020,202008,August 2020,2,0,1,Imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18086592,,,0
+309,HS,2020,202008,August 2020,2,0,2,Exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17785877,,,0
+310,HS,2020,202008,August 2020,2,0,3,Re-exports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,103830,,,0
+311,HS,2020,202008,August 2020,2,0,4,Re-imports,268,Georgia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,41340,,,0
+312,HS,2020,202001,January 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2019104850,,,0
+313,HS,2020,202001,January 2020,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2045215110,,,0
+314,HS,2020,202002,February 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2063462584,,,0
+315,HS,2020,202002,February 2020,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2061454052,,,0
+316,HS,2020,202003,March 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2049588248,,,0
+317,HS,2020,202003,March 2020,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2052751334,,,0
+318,HS,2020,202004,April 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1561393853,,,0
+319,HS,2020,202004,April 2020,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1413070331,,,0
+320,HS,2020,202005,May 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1541819071,,,0
+321,HS,2020,202005,May 2020,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1474177337,,,0
+322,HS,2020,202006,June 2020,2,0,1,Imports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1640793632,,,0
+323,HS,2020,202006,June 2020,2,0,2,Exports,276,Germany,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1648598682,,,0
+324,HS,2020,202001,January 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,93298410,,,0
+325,HS,2020,202001,January 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,45834757,,,0
+326,HS,2020,202002,February 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,76062768,,,0
+327,HS,2020,202002,February 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,53921116,,,0
+328,HS,2020,202003,March 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,95860725,,,0
+329,HS,2020,202003,March 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,42621154,,,0
+330,HS,2020,202004,April 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,79844837,,,0
+331,HS,2020,202004,April 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24384590,,,0
+332,HS,2020,202005,May 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,85637420,,,0
+333,HS,2020,202005,May 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,33999031,,,0
+334,HS,2020,202006,June 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,93494818,,,0
+335,HS,2020,202006,June 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,43686050,,,0
+336,HS,2020,202007,July 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,106569499,,,0
+337,HS,2020,202007,July 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,50496228,,,0
+338,HS,2020,202008,August 2020,2,0,1,Imports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,69006055,,,0
+339,HS,2020,202008,August 2020,2,0,2,Exports,300,Greece,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22808988,,,0
+340,HS,2020,202001,January 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,78109080,,,0
+341,HS,2020,202001,January 2020,2,0,2,Exports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,56437886,,,0
+342,HS,2020,202002,February 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,63796248,,,0
+343,HS,2020,202002,February 2020,2,0,2,Exports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31593877,,,0
+344,HS,2020,202003,March 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,70649563,,,0
+345,HS,2020,202003,March 2020,2,0,2,Exports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,27149570,,,0
+346,HS,2020,202004,April 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60349352,,,0
+347,HS,2020,202004,April 2020,2,0,2,Exports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,32971257,,,0
+348,HS,2020,202005,May 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,55900926,,,0
+349,HS,2020,202005,May 2020,2,0,2,Exports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,28425447,,,0
+350,HS,2020,202006,June 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,37219890,,,0
+351,HS,2020,202006,June 2020,2,0,2,Exports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,21272924,,,0
+352,HS,2020,202007,July 2020,2,0,1,Imports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,50460553,,,0
+353,HS,2020,202007,July 2020,2,0,2,Exports,320,Guatemala,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,32868154,,,0
+354,HS,2020,202001,January 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4869424,,,0
+355,HS,2020,202001,January 2020,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,160314,,,0
+356,HS,2020,202002,February 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3611798,,,0
+357,HS,2020,202002,February 2020,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,275400,,,0
+358,HS,2020,202002,February 2020,2,0,3,Re-exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,30481,,,0
+359,HS,2020,202003,March 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2425056,,,0
+360,HS,2020,202003,March 2020,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,122108,,,0
+361,HS,2020,202004,April 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2885770,,,0
+362,HS,2020,202004,April 2020,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22600,,,0
+363,HS,2020,202005,May 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3517075,,,0
+364,HS,2020,202005,May 2020,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16200,,,0
+365,HS,2020,202006,June 2020,2,0,1,Imports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2463755,,,0
+366,HS,2020,202006,June 2020,2,0,2,Exports,328,Guyana,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,173380,,,0
+367,HS,2020,202001,January 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,80265846,,,0
+368,HS,2020,202001,January 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60092735,,,0
+369,HS,2020,202002,February 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,101035508,,,0
+370,HS,2020,202002,February 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47560547,,,0
+371,HS,2020,202003,March 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,142476207,,,0
+372,HS,2020,202003,March 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,75181999,,,0
+373,HS,2020,202004,April 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,130175161,,,0
+374,HS,2020,202004,April 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,61678001,,,0
+375,HS,2020,202005,May 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,161138599,,,0
+376,HS,2020,202005,May 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,69727595,,,0
+377,HS,2020,202006,June 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,77774811,,,0
+378,HS,2020,202006,June 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58529381,,,0
+379,HS,2020,202007,July 2020,2,0,1,Imports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,168005599,,,0
+380,HS,2020,202007,July 2020,2,0,2,Exports,344,"China, Hong Kong SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,70613171,,,0
+381,HS,2020,202001,January 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,191740753,,,0
+382,HS,2020,202001,January 2020,2,0,2,Exports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,126273253,,,0
+383,HS,2020,202002,February 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,198369226,,,0
+384,HS,2020,202002,February 2020,2,0,2,Exports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,117204292,,,0
+385,HS,2020,202003,March 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,196906800,,,0
+386,HS,2020,202003,March 2020,2,0,2,Exports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,115733962,,,0
+387,HS,2020,202004,April 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,166337877,,,0
+388,HS,2020,202004,April 2020,2,0,2,Exports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,104669062,,,0
+389,HS,2020,202005,May 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,161326321,,,0
+390,HS,2020,202005,May 2020,2,0,2,Exports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,101787593,,,0
+391,HS,2020,202006,June 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,162462752,,,0
+392,HS,2020,202006,June 2020,2,0,2,Exports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,113693924,,,0
+393,HS,2020,202007,July 2020,2,0,1,Imports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,175420310,,,0
+394,HS,2020,202007,July 2020,2,0,2,Exports,348,Hungary,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109358247,,,0
+395,HS,2020,202001,January 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1976690,,,0
+396,HS,2020,202001,January 2020,2,0,2,Exports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,16640446,,,0
+397,HS,2020,202002,February 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3118098,,,0
+398,HS,2020,202002,February 2020,2,0,2,Exports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,12945228,,,0
+399,HS,2020,202003,March 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3376236,,,0
+400,HS,2020,202003,March 2020,2,0,2,Exports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,16167710,,,0
+401,HS,2020,202004,April 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3319124,,,0
+402,HS,2020,202004,April 2020,2,0,2,Exports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10036070,,,0
+403,HS,2020,202005,May 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2773137,,,0
+404,HS,2020,202005,May 2020,2,0,2,Exports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11541655,,,0
+405,HS,2020,202006,June 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4547498,,,0
+406,HS,2020,202006,June 2020,2,0,2,Exports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7157453,,,0
+407,HS,2020,202007,July 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3488253,,,0
+408,HS,2020,202007,July 2020,2,0,2,Exports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8112398,,,0
+409,HS,2020,202008,August 2020,2,0,1,Imports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3772049,,,0
+410,HS,2020,202008,August 2020,2,0,2,Exports,352,Iceland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11902265,,,0
+411,HS,2020,202001,January 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58756207,,,0
+412,HS,2020,202001,January 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22012702,,,0
+413,HS,2020,202002,February 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,50152106,,,0
+414,HS,2020,202002,February 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,21268239,,,0
+415,HS,2020,202003,March 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,54596312,,,0
+416,HS,2020,202003,March 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19296422,,,0
+417,HS,2020,202003,March 2020,2,0,4,Re-imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4171,,,0
+418,HS,2020,202004,April 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,39968305,,,0
+419,HS,2020,202004,April 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14804002,,,0
+420,HS,2020,202005,May 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,39175092,,,0
+421,HS,2020,202005,May 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13099523,,,0
+422,HS,2020,202006,June 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47215742,,,0
+423,HS,2020,202006,June 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20473031,,,0
+424,HS,2020,202006,June 2020,2,0,4,Re-imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2240,,,0
+425,HS,2020,202007,July 2020,2,0,1,Imports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60524897,,,0
+426,HS,2020,202007,July 2020,2,0,2,Exports,372,Ireland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,16032627,,,0
+427,HS,2020,202001,January 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,124768000,,,0
+428,HS,2020,202001,January 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,14939000,,,0
+429,HS,2020,202002,February 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,140502000,,,0
+430,HS,2020,202002,February 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,13179000,,,0
+431,HS,2020,202003,March 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,124630000,,,0
+432,HS,2020,202003,March 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,14211000,,,0
+433,HS,2020,202004,April 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,99481000,,,0
+434,HS,2020,202004,April 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,7085000,,,0
+435,HS,2020,202005,May 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,118281000,,,0
+436,HS,2020,202005,May 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7440000,,,0
+437,HS,2020,202006,June 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,127863000,,,0
+438,HS,2020,202006,June 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,11773000,,,0
+439,HS,2020,202007,July 2020,2,0,1,Imports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109344000,,,0
+440,HS,2020,202007,July 2020,2,0,2,Exports,376,Israel,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,12670000,,,0
+441,HS,2020,202001,January 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1541061318,,,0
+442,HS,2020,202001,January 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,959260297,,,0
+443,HS,2020,202001,January 2020,2,0,3,Re-exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2029458,,,0
+444,HS,2020,202001,January 2020,2,0,4,Re-imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,173073,,,0
+445,HS,2020,202002,February 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1406248836,,,0
+446,HS,2020,202002,February 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,994619785,,,0
+447,HS,2020,202002,February 2020,2,0,3,Re-exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2036535,,,0
+448,HS,2020,202002,February 2020,2,0,4,Re-imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,366721,,,0
+449,HS,2020,202003,March 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1242151387,,,0
+450,HS,2020,202003,March 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,939015127,,,0
+451,HS,2020,202003,March 2020,2,0,3,Re-exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2683880,,,0
+452,HS,2020,202003,March 2020,2,0,4,Re-imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,400996,,,0
+453,HS,2020,202004,April 2020,2,0,1,Imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1013689865,,,0
+454,HS,2020,202004,April 2020,2,0,2,Exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,656808376,,,0
+455,HS,2020,202004,April 2020,2,0,3,Re-exports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,870509,,,0
+456,HS,2020,202004,April 2020,2,0,4,Re-imports,381,Italy,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,404807,,,0
+457,HS,2020,202001,January 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,593922414,,,0
+458,HS,2020,202001,January 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1915615148,,,0
+459,HS,2020,202002,February 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,480849619,,,0
+460,HS,2020,202002,February 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2143400851,,,0
+461,HS,2020,202003,March 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,542063309,,,0
+462,HS,2020,202003,March 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2452676345,,,0
+463,HS,2020,202004,April 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,583185160,,,0
+464,HS,2020,202004,April 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2029383851,,,0
+465,HS,2020,202005,May 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,464054450,,,0
+466,HS,2020,202005,May 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1688854450,,,0
+467,HS,2020,202006,June 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,450929168,,,0
+468,HS,2020,202006,June 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1679538397,,,0
+469,HS,2020,202007,July 2020,2,0,1,Imports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,455059477,,,0
+470,HS,2020,202007,July 2020,2,0,2,Exports,392,Japan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1612259860,,,0
+471,HS,2020,202001,January 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15546643,,,0
+472,HS,2020,202001,January 2020,2,0,2,Exports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1960846,,,0
+473,HS,2020,202002,February 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10771255,,,0
+474,HS,2020,202002,February 2020,2,0,2,Exports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1579658,,,0
+475,HS,2020,202003,March 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5493589,,,0
+476,HS,2020,202003,March 2020,2,0,2,Exports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1802486,,,0
+477,HS,2020,202004,April 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3125207,,,0
+478,HS,2020,202004,April 2020,2,0,2,Exports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,353502,,,0
+479,HS,2020,202005,May 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3507076,,,0
+480,HS,2020,202005,May 2020,2,0,2,Exports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1721713,,,0
+481,HS,2020,202006,June 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6110023,,,0
+482,HS,2020,202006,June 2020,2,0,2,Exports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2789733,,,0
+483,HS,2020,202007,July 2020,2,0,1,Imports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15479104,,,0
+484,HS,2020,202007,July 2020,2,0,2,Exports,417,Kyrgyzstan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2002953,,,0
+485,HS,2020,202001,January 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,63638564,,,0
+486,HS,2020,202001,January 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29680690,,,0
+487,HS,2020,202002,February 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,46581023,,,0
+488,HS,2020,202002,February 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,46748135,,,0
+489,HS,2020,202003,March 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47104914,,,0
+490,HS,2020,202003,March 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,48760644,,,0
+491,HS,2020,202004,April 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47263167,,,0
+492,HS,2020,202004,April 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,37770402,,,0
+493,HS,2020,202007,July 2020,2,0,1,Imports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64371615,,,0
+494,HS,2020,202007,July 2020,2,0,2,Exports,428,Latvia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,40403619,,,0
+495,HS,2020,202001,January 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62194919,,,0
+496,HS,2020,202001,January 2020,2,0,2,Exports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47324470,,,0
+497,HS,2020,202002,February 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,58518914,,,0
+498,HS,2020,202002,February 2020,2,0,2,Exports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,38508430,,,0
+499,HS,2020,202004,April 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,51909139,,,0
+500,HS,2020,202004,April 2020,2,0,2,Exports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,30647996,,,0
+501,HS,2020,202005,May 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,54468722,,,0
+502,HS,2020,202005,May 2020,2,0,2,Exports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31150391,,,0
+503,HS,2020,202006,June 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,51280417,,,0
+504,HS,2020,202006,June 2020,2,0,2,Exports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,50476090,,,0
+505,HS,2020,202007,July 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,75569598,,,0
+506,HS,2020,202007,July 2020,2,0,2,Exports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,40369731,,,0
+507,HS,2020,202008,August 2020,2,0,1,Imports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,68467577,,,0
+508,HS,2020,202008,August 2020,2,0,2,Exports,440,Lithuania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,44202968,,,0
+509,HS,2020,202001,January 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,97869087,,,0
+510,HS,2020,202001,January 2020,2,0,2,Exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,134478383,,,0
+511,HS,2020,202001,January 2020,2,0,3,Re-exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11,,,0
+512,HS,2020,202001,January 2020,2,0,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,28967,,,0
+513,HS,2020,202002,February 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,106946077,,,0
+514,HS,2020,202002,February 2020,2,0,2,Exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,138721873,,,0
+515,HS,2020,202002,February 2020,2,0,3,Re-exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17991,,,0
+516,HS,2020,202002,February 2020,2,0,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,42681,,,0
+517,HS,2020,202003,March 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,100361141,,,0
+518,HS,2020,202003,March 2020,2,0,2,Exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,115941795,,,0
+519,HS,2020,202003,March 2020,2,0,3,Re-exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,461,,,0
+520,HS,2020,202003,March 2020,2,0,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,27126,,,0
+521,HS,2020,202004,April 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,45231717,,,0
+522,HS,2020,202004,April 2020,2,0,2,Exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,80130191,,,0
+523,HS,2020,202004,April 2020,2,0,3,Re-exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12112,,,0
+524,HS,2020,202004,April 2020,2,0,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,33532,,,0
+525,HS,2020,202005,May 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,72423451,,,0
+526,HS,2020,202005,May 2020,2,0,2,Exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,100085153,,,0
+527,HS,2020,202005,May 2020,2,0,3,Re-exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,256,,,0
+528,HS,2020,202005,May 2020,2,0,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1338673,,,0
+529,HS,2020,202006,June 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,82276680,,,0
+530,HS,2020,202006,June 2020,2,0,2,Exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,108062007,,,0
+531,HS,2020,202006,June 2020,2,0,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,36342,,,0
+532,HS,2020,202007,July 2020,2,0,1,Imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,98689896,,,0
+533,HS,2020,202007,July 2020,2,0,2,Exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,106474929,,,0
+534,HS,2020,202007,July 2020,2,0,3,Re-exports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2316,,,0
+535,HS,2020,202007,July 2020,2,0,4,Re-imports,442,Luxembourg,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,28571,,,0
+536,HS,2020,202001,January 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7693261,,,0
+537,HS,2020,202001,January 2020,2,0,2,Exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,728618,,,0
+538,HS,2020,202002,February 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5475802,,,0
+539,HS,2020,202002,February 2020,2,0,2,Exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,229889,,,0
+540,HS,2020,202003,March 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10814249,,,0
+541,HS,2020,202003,March 2020,2,0,2,Exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1065743,,,0
+542,HS,2020,202003,March 2020,2,0,3,Re-exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23628,,,0
+543,HS,2020,202004,April 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5542737,,,0
+544,HS,2020,202004,April 2020,2,0,2,Exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,402710,,,0
+545,HS,2020,202005,May 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8639694,,,0
+546,HS,2020,202005,May 2020,2,0,2,Exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,510280,,,0
+547,HS,2020,202006,June 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8546207,,,0
+548,HS,2020,202006,June 2020,2,0,2,Exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,755313,,,0
+549,HS,2020,202007,July 2020,2,0,1,Imports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13734680,,,0
+550,HS,2020,202007,July 2020,2,0,2,Exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,774985,,,0
+551,HS,2020,202007,July 2020,2,0,3,Re-exports,446,"China, Macao SAR",,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12228,,,0
+552,HS,2020,202001,January 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3225456,,,0
+553,HS,2020,202001,January 2020,2,0,2,Exports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35927,,,0
+554,HS,2020,202002,February 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11426386,,,0
+555,HS,2020,202002,February 2020,2,0,2,Exports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22876,,,0
+556,HS,2020,202003,March 2020,2,0,1,Imports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,6211398,,,0
+557,HS,2020,202003,March 2020,2,0,2,Exports,450,Madagascar,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1649,,,0
+558,HS,2020,202004,April 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,7886109,,,0
+559,HS,2020,202004,April 2020,2,0,2,Exports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,257025,,,0
+560,HS,2020,202005,May 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5200517,,,0
+561,HS,2020,202005,May 2020,2,0,2,Exports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,201960,,,0
+562,HS,2020,202006,June 2020,2,0,1,Imports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6391664,,,0
+563,HS,2020,202006,June 2020,2,0,2,Exports,480,Mauritius,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1373637,,,0
+564,HS,2020,202001,January 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,822284415,,,0
+565,HS,2020,202001,January 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,255118233,,,0
+566,HS,2020,202002,February 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,680888153,,,0
+567,HS,2020,202002,February 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,247238890,,,0
+568,HS,2020,202003,March 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,764053054,,,0
+569,HS,2020,202003,March 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,261756820,,,0
+570,HS,2020,202004,April 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,781220770,,,0
+571,HS,2020,202004,April 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,193605695,,,0
+572,HS,2020,202005,May 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,612389551,,,0
+573,HS,2020,202005,May 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,199067155,,,0
+574,HS,2020,202006,June 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,600232981,,,0
+575,HS,2020,202006,June 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,216116693,,,0
+576,HS,2020,202007,July 2020,2,0,1,Imports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,590970396,,,0
+577,HS,2020,202007,July 2020,2,0,2,Exports,484,Mexico,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,235577997,,,0
+578,HS,2020,202001,January 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6162924,,,0
+579,HS,2020,202001,January 2020,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1048,,,0
+580,HS,2020,202001,January 2020,2,0,3,Re-exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,275,,,0
+581,HS,2020,202002,February 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6935841,,,0
+582,HS,2020,202002,February 2020,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,81016,,,0
+583,HS,2020,202002,February 2020,2,0,3,Re-exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4854,,,0
+584,HS,2020,202003,March 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6814913,,,0
+585,HS,2020,202003,March 2020,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,87968,,,0
+586,HS,2020,202004,April 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6223356,,,0
+587,HS,2020,202004,April 2020,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4343,,,0
+588,HS,2020,202004,April 2020,2,0,3,Re-exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,111,,,0
+589,HS,2020,202005,May 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8982670,,,0
+590,HS,2020,202005,May 2020,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,103735,,,0
+591,HS,2020,202005,May 2020,2,0,3,Re-exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5374,,,0
+592,HS,2020,202006,June 2020,2,0,1,Imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8273175,,,0
+593,HS,2020,202006,June 2020,2,0,2,Exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,88723,,,0
+594,HS,2020,202006,June 2020,2,0,3,Re-exports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4379,,,0
+595,HS,2020,202006,June 2020,2,0,4,Re-imports,498,Rep. of Moldova,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,613,,,0
+596,HS,2020,202001,January 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3750968,,,0
+597,HS,2020,202001,January 2020,2,0,2,Exports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2813552,,,0
+598,HS,2020,202002,February 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4956752,,,0
+599,HS,2020,202002,February 2020,2,0,2,Exports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1217891,,,0
+600,HS,2020,202003,March 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5304748,,,0
+601,HS,2020,202003,March 2020,2,0,2,Exports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1187236,,,0
+602,HS,2020,202003,March 2020,2,0,4,Re-imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22535,,,0
+603,HS,2020,202004,April 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3781271,,,0
+604,HS,2020,202004,April 2020,2,0,2,Exports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1414006,,,0
+605,HS,2020,202005,May 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4158974,,,0
+606,HS,2020,202005,May 2020,2,0,2,Exports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2109721,,,0
+607,HS,2020,202006,June 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3912742,,,0
+608,HS,2020,202006,June 2020,2,0,2,Exports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3002719,,,0
+609,HS,2020,202007,July 2020,2,0,1,Imports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4038482,,,0
+610,HS,2020,202007,July 2020,2,0,2,Exports,499,Montenegro,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1506635,,,0
+611,HS,2020,202001,January 2020,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,119820120,,,0
+612,HS,2020,202001,January 2020,2,0,2,Exports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5188421,,,0
+613,HS,2020,202002,February 2020,2,0,1,Imports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,122748855,,,0
+614,HS,2020,202002,February 2020,2,0,2,Exports,504,Morocco,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5343275,,,0
+615,HS,2020,202001,January 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5538662,,,0
+616,HS,2020,202001,January 2020,2,0,2,Exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3213803,,,0
+617,HS,2020,202001,January 2020,2,0,3,Re-exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2104270,,,0
+618,HS,2020,202001,January 2020,2,0,4,Re-imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,841,,,0
+619,HS,2020,202002,February 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5282847,,,0
+620,HS,2020,202002,February 2020,2,0,2,Exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2028297,,,0
+621,HS,2020,202002,February 2020,2,0,3,Re-exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1051422,,,0
+622,HS,2020,202002,February 2020,2,0,4,Re-imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4044,,,0
+623,HS,2020,202003,March 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,5544159,,,0
+624,HS,2020,202003,March 2020,2,0,2,Exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,4723587,,,0
+625,HS,2020,202003,March 2020,2,0,3,Re-exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,3781092,,,0
+626,HS,2020,202004,April 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1785866,,,0
+627,HS,2020,202004,April 2020,2,0,2,Exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1620081,,,0
+628,HS,2020,202004,April 2020,2,0,3,Re-exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1432066,,,0
+629,HS,2020,202005,May 2020,2,0,1,Imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,7475338,,,0
+630,HS,2020,202005,May 2020,2,0,2,Exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2566708,,,0
+631,HS,2020,202005,May 2020,2,0,3,Re-exports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2347723,,,0
+632,HS,2020,202005,May 2020,2,0,4,Re-imports,516,Namibia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,52469,,,0
+633,HS,2020,202001,January 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,763337107,,,0
+634,HS,2020,202001,January 2020,2,0,2,Exports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,977839506,,,0
+635,HS,2020,202002,February 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,713217934,,,0
+636,HS,2020,202002,February 2020,2,0,2,Exports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,894910933,,,0
+637,HS,2020,202003,March 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,763486663,,,0
+638,HS,2020,202003,March 2020,2,0,2,Exports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,945868018,,,0
+639,HS,2020,202005,May 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,619621799,,,0
+640,HS,2020,202005,May 2020,2,0,2,Exports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,697161854,,,0
+641,HS,2020,202006,June 2020,2,0,1,Imports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,645129203,,,0
+642,HS,2020,202006,June 2020,2,0,2,Exports,528,Netherlands,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,722348911,,,0
+643,HS,2020,202001,January 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25343683,,,0
+644,HS,2020,202001,January 2020,2,0,2,Exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15242508,,,0
+645,HS,2020,202001,January 2020,2,0,3,Re-exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,72396,,,0
+646,HS,2020,202002,February 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19141597,,,0
+647,HS,2020,202002,February 2020,2,0,2,Exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,29384107,,,0
+648,HS,2020,202002,February 2020,2,0,3,Re-exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,111432,,,0
+649,HS,2020,202002,February 2020,2,0,4,Re-imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1394,,,0
+650,HS,2020,202003,March 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18151764,,,0
+651,HS,2020,202003,March 2020,2,0,2,Exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26963387,,,0
+652,HS,2020,202003,March 2020,2,0,3,Re-exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,80971,,,0
+653,HS,2020,202004,April 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20598520,,,0
+654,HS,2020,202004,April 2020,2,0,2,Exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10475568,,,0
+655,HS,2020,202004,April 2020,2,0,3,Re-exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,602073,,,0
+656,HS,2020,202004,April 2020,2,0,4,Re-imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,487,,,0
+657,HS,2020,202005,May 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,17231176,,,0
+658,HS,2020,202005,May 2020,2,0,2,Exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20166476,,,0
+659,HS,2020,202005,May 2020,2,0,3,Re-exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,426575,,,0
+660,HS,2020,202006,June 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,20241630,,,0
+661,HS,2020,202006,June 2020,2,0,2,Exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,34181392,,,0
+662,HS,2020,202006,June 2020,2,0,3,Re-exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,138166,,,0
+663,HS,2020,202007,July 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,18143933,,,0
+664,HS,2020,202007,July 2020,2,0,2,Exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,20834669,,,0
+665,HS,2020,202007,July 2020,2,0,3,Re-exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,121374,,,0
+666,HS,2020,202007,July 2020,2,0,4,Re-imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,893,,,0
+667,HS,2020,202008,August 2020,2,0,1,Imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19411533,,,0
+668,HS,2020,202008,August 2020,2,0,2,Exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24917064,,,0
+669,HS,2020,202008,August 2020,2,0,3,Re-exports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,407465,,,0
+670,HS,2020,202008,August 2020,2,0,4,Re-imports,554,New Zealand,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1322,,,0
+671,HS,2020,202001,January 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,72200841,,,0
+672,HS,2020,202001,January 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,78529073,,,0
+673,HS,2020,202002,February 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,63742911,,,0
+674,HS,2020,202002,February 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,80880655,,,0
+675,HS,2020,202003,March 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60448524,,,0
+676,HS,2020,202003,March 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,89329437,,,0
+677,HS,2020,202004,April 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,60608457,,,0
+678,HS,2020,202004,April 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,85570065,,,0
+679,HS,2020,202005,May 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59067449,,,0
+680,HS,2020,202005,May 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,76743114,,,0
+681,HS,2020,202006,June 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,65250214,,,0
+682,HS,2020,202006,June 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,78567576,,,0
+683,HS,2020,202007,July 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,52437019,,,0
+684,HS,2020,202007,July 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,79281384,,,0
+685,HS,2020,202008,August 2020,2,0,1,Imports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64309531,,,0
+686,HS,2020,202008,August 2020,2,0,2,Exports,579,Norway,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,80134183,,,0
+687,HS,2020,202001,January 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,238022807,,,0
+688,HS,2020,202001,January 2020,2,0,2,Exports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7015153,,,0
+689,HS,2020,202001,January 2020,2,0,4,Re-imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62355,,,0
+690,HS,2020,202002,February 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,261956818,,,0
+691,HS,2020,202002,February 2020,2,0,2,Exports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7767237,,,0
+692,HS,2020,202002,February 2020,2,0,4,Re-imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,149069,,,0
+693,HS,2020,202003,March 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,237262237,,,0
+694,HS,2020,202003,March 2020,2,0,2,Exports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7302034,,,0
+695,HS,2020,202003,March 2020,2,0,4,Re-imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24953,,,0
+696,HS,2020,202004,April 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,194766721,,,0
+697,HS,2020,202004,April 2020,2,0,2,Exports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,4083354,,,0
+698,HS,2020,202004,April 2020,2,0,4,Re-imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,75310,,,0
+699,HS,2020,202005,May 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,251957598,,,0
+700,HS,2020,202005,May 2020,2,0,2,Exports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2654755,,,0
+701,HS,2020,202005,May 2020,2,0,4,Re-imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,514676,,,0
+702,HS,2020,202006,June 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,229880766,,,0
+703,HS,2020,202006,June 2020,2,0,2,Exports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7590581,,,0
+704,HS,2020,202006,June 2020,2,0,4,Re-imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109340,,,0
+705,HS,2020,202007,July 2020,2,0,1,Imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,288905942,,,0
+706,HS,2020,202007,July 2020,2,0,2,Exports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7874183,,,0
+707,HS,2020,202007,July 2020,2,0,3,Re-exports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,954,,,0
+708,HS,2020,202007,July 2020,2,0,4,Re-imports,586,Pakistan,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1867,,,0
+709,HS,2020,202001,January 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22212608,,,0
+710,HS,2020,202001,January 2020,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2034920,,,0
+711,HS,2020,202002,February 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19006521,,,0
+712,HS,2020,202002,February 2020,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1477054,,,0
+713,HS,2020,202003,March 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,18544126,,,0
+714,HS,2020,202003,March 2020,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1356912,,,0
+715,HS,2020,202004,April 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7921969,,,0
+716,HS,2020,202004,April 2020,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,879046,,,0
+717,HS,2020,202005,May 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,19730602,,,0
+718,HS,2020,202005,May 2020,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,383537,,,0
+719,HS,2020,202006,June 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,26141551,,,0
+720,HS,2020,202006,June 2020,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1234742,,,0
+721,HS,2020,202007,July 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22225642,,,0
+722,HS,2020,202007,July 2020,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1479428,,,0
+723,HS,2020,202008,August 2020,2,0,1,Imports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,19775217,,,0
+724,HS,2020,202008,August 2020,2,0,2,Exports,600,Paraguay,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1257571,,,0
+725,HS,2020,202001,January 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,108515602,,,0
+726,HS,2020,202001,January 2020,2,0,2,Exports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15974739,,,0
+727,HS,2020,202002,February 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,134763640,,,0
+728,HS,2020,202002,February 2020,2,0,2,Exports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12820154,,,0
+729,HS,2020,202003,March 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,140641809,,,0
+730,HS,2020,202003,March 2020,2,0,2,Exports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7408202,,,0
+731,HS,2020,202004,April 2020,2,0,1,Imports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,116895911,,,0
+732,HS,2020,202004,April 2020,2,0,2,Exports,604,Peru,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2683863,,,0
+733,HS,2020,202001,January 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,401710003,,,0
+734,HS,2020,202001,January 2020,2,0,2,Exports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12112857,,,0
+735,HS,2020,202002,February 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,316817715,,,0
+736,HS,2020,202002,February 2020,2,0,2,Exports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11773467,,,0
+737,HS,2020,202003,March 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,338243845,,,0
+738,HS,2020,202003,March 2020,2,0,2,Exports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5409895,,,0
+739,HS,2020,202004,April 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,191854316,,,0
+740,HS,2020,202004,April 2020,2,0,2,Exports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3673738,,,0
+741,HS,2020,202005,May 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,155540130,,,0
+742,HS,2020,202005,May 2020,2,0,2,Exports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3275571,,,0
+743,HS,2020,202006,June 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,180026264,,,0
+744,HS,2020,202006,June 2020,2,0,2,Exports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7618065,,,0
+745,HS,2020,202007,July 2020,2,0,1,Imports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,264752119,,,0
+746,HS,2020,202007,July 2020,2,0,2,Exports,608,Philippines,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,15486127,,,0
+747,HS,2020,202001,January 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,720370351,,,0
+748,HS,2020,202001,January 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,402313951,,,0
+749,HS,2020,202002,February 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,761490478,,,0
+750,HS,2020,202002,February 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,359149295,,,0
+751,HS,2020,202003,March 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,815105553,,,0
+752,HS,2020,202003,March 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,384718352,,,0
+753,HS,2020,202004,April 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,595258338,,,0
+754,HS,2020,202004,April 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,314994256,,,0
+755,HS,2020,202005,May 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,575601850,,,0
+756,HS,2020,202005,May 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,295997484,,,0
+757,HS,2020,202006,June 2020,2,0,1,Imports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,591047212,,,0
+758,HS,2020,202006,June 2020,2,0,2,Exports,616,Poland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,285371429,,,0
+759,HS,2020,202001,January 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,224200031,,,0
+760,HS,2020,202001,January 2020,2,0,2,Exports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,123110753,,,0
+761,HS,2020,202002,February 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,202828262,,,0
+762,HS,2020,202002,February 2020,2,0,2,Exports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,105400794,,,0
+763,HS,2020,202003,March 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,227520454,,,0
+764,HS,2020,202003,March 2020,2,0,2,Exports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,106739563,,,0
+765,HS,2020,202004,April 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,159547591,,,0
+766,HS,2020,202004,April 2020,2,0,2,Exports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,88507130,,,0
+767,HS,2020,202005,May 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,169050520,,,0
+768,HS,2020,202005,May 2020,2,0,2,Exports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,98596359,,,0
+769,HS,2020,202006,June 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,188953781,,,0
+770,HS,2020,202006,June 2020,2,0,2,Exports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,93534912,,,0
+771,HS,2020,202007,July 2020,2,0,1,Imports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,217109427,,,0
+772,HS,2020,202007,July 2020,2,0,2,Exports,620,Portugal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,122158360,,,0
+773,HS,2020,202001,January 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,245311719,,,0
+774,HS,2020,202001,January 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,177161693,,,0
+775,HS,2020,202002,February 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,251148443,,,0
+776,HS,2020,202002,February 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,181058218,,,0
+777,HS,2020,202003,March 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,238756701,,,0
+778,HS,2020,202003,March 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,176507376,,,0
+779,HS,2020,202004,April 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,193088023,,,0
+780,HS,2020,202004,April 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,123950544,,,0
+781,HS,2020,202005,May 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,174302526,,,0
+782,HS,2020,202005,May 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,141047933,,,0
+783,HS,2020,202006,June 2020,2,0,1,Imports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,181317154,,,0
+784,HS,2020,202006,June 2020,2,0,2,Exports,642,Romania,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,138629328,,,0
+785,HS,2020,202001,January 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11614605,,,0
+786,HS,2020,202001,January 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,890884,,,0
+787,HS,2020,202001,January 2020,2,0,3,Re-exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,79236,,,0
+788,HS,2020,202002,February 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7401011,,,0
+789,HS,2020,202002,February 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,450461,,,0
+790,HS,2020,202002,February 2020,2,0,3,Re-exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,77063,,,0
+791,HS,2020,202003,March 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8246012,,,0
+792,HS,2020,202003,March 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,779033,,,0
+793,HS,2020,202003,March 2020,2,0,3,Re-exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59125,,,0
+794,HS,2020,202004,April 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,8218063,,,0
+795,HS,2020,202004,April 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,812336,,,0
+796,HS,2020,202004,April 2020,2,0,3,Re-exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,248034,,,0
+797,HS,2020,202005,May 2020,2,0,1,Imports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7112299,,,0
+798,HS,2020,202005,May 2020,2,0,2,Exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,908905,,,0
+799,HS,2020,202005,May 2020,2,0,3,Re-exports,646,Rwanda,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,174725,,,0
+800,HS,2020,202001,January 2020,2,0,1,Imports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11063216,,,0
+801,HS,2020,202001,January 2020,2,0,2,Exports,686,Senegal,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10752818,,,0
+802,HS,2020,202001,January 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,37951561,,,0
+803,HS,2020,202001,January 2020,2,0,2,Exports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62295288,,,0
+804,HS,2020,202002,February 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,51519620,,,0
+805,HS,2020,202002,February 2020,2,0,2,Exports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59679673,,,0
+806,HS,2020,202003,March 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,49963919,,,0
+807,HS,2020,202003,March 2020,2,0,2,Exports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,66423200,,,0
+808,HS,2020,202004,April 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,40777831,,,0
+809,HS,2020,202004,April 2020,2,0,2,Exports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,51510210,,,0
+810,HS,2020,202005,May 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,45297475,,,0
+811,HS,2020,202005,May 2020,2,0,2,Exports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,48664210,,,0
+812,HS,2020,202006,June 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,52110442,,,0
+813,HS,2020,202006,June 2020,2,0,2,Exports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,51009565,,,0
+814,HS,2020,202007,July 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,55985199,,,0
+815,HS,2020,202007,July 2020,2,0,2,Exports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,49542174,,,0
+816,HS,2020,202008,August 2020,2,0,1,Imports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,47177410,,,0
+817,HS,2020,202008,August 2020,2,0,2,Exports,688,Serbia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,48320603,,,0
+818,HS,2020,202001,January 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,750892332,,,0
+819,HS,2020,202001,January 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,722961908,,,0
+820,HS,2020,202002,February 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,645146866,,,0
+821,HS,2020,202002,February 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,689385007,,,0
+822,HS,2020,202003,March 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,581759607,,,0
+823,HS,2020,202003,March 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,629501221,,,0
+824,HS,2020,202004,April 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,506412832,,,0
+825,HS,2020,202004,April 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,462798881,,,0
+826,HS,2020,202005,May 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,901441743,,,0
+827,HS,2020,202005,May 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1180753738,,,0
+828,HS,2020,202006,June 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,427309366,,,0
+829,HS,2020,202006,June 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1323765166,,,0
+830,HS,2020,202007,July 2020,2,0,1,Imports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,473910586,,,0
+831,HS,2020,202007,July 2020,2,0,2,Exports,699,India,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1302371506,,,0
+832,HS,2020,202002,February 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,201433651,,,0
+833,HS,2020,202002,February 2020,2,0,2,Exports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,246063188,,,0
+834,HS,2020,202002,February 2020,2,0,4,Re-imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,3511674,,,0
+835,HS,2020,202003,March 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,213346220,,,0
+836,HS,2020,202003,March 2020,2,0,2,Exports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,256026709,,,0
+837,HS,2020,202003,March 2020,2,0,4,Re-imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1836732,,,0
+838,HS,2020,202004,April 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,151026745,,,0
+839,HS,2020,202004,April 2020,2,0,2,Exports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,185943912,,,0
+840,HS,2020,202004,April 2020,2,0,4,Re-imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,957885,,,0
+841,HS,2020,202005,May 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,126966892,,,0
+842,HS,2020,202005,May 2020,2,0,2,Exports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,173148548,,,0
+843,HS,2020,202005,May 2020,2,0,4,Re-imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1603529,,,0
+844,HS,2020,202006,June 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,141016110,,,0
+845,HS,2020,202006,June 2020,2,0,2,Exports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,192269153,,,0
+846,HS,2020,202006,June 2020,2,0,4,Re-imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1630656,,,0
+847,HS,2020,202007,July 2020,2,0,1,Imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,169724371,,,0
+848,HS,2020,202007,July 2020,2,0,2,Exports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,215407232,,,0
+849,HS,2020,202007,July 2020,2,0,4,Re-imports,703,Slovakia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1769370,,,0
+850,HS,2020,202001,January 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,120315311,,,0
+851,HS,2020,202001,January 2020,2,0,2,Exports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,95237542,,,0
+852,HS,2020,202001,January 2020,2,0,4,Re-imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,259053,,,0
+853,HS,2020,202002,February 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,121749516,,,0
+854,HS,2020,202002,February 2020,2,0,2,Exports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,90371117,,,0
+855,HS,2020,202002,February 2020,2,0,4,Re-imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,427718,,,0
+856,HS,2020,202003,March 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,135071624,,,0
+857,HS,2020,202003,March 2020,2,0,2,Exports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,90425281,,,0
+858,HS,2020,202003,March 2020,2,0,4,Re-imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,217628,,,0
+859,HS,2020,202004,April 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,87304865,,,0
+860,HS,2020,202004,April 2020,2,0,2,Exports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,74135693,,,0
+861,HS,2020,202004,April 2020,2,0,4,Re-imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,192863,,,0
+862,HS,2020,202005,May 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,90208063,,,0
+863,HS,2020,202005,May 2020,2,0,2,Exports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,76051001,,,0
+864,HS,2020,202005,May 2020,2,0,4,Re-imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,361039,,,0
+865,HS,2020,202006,June 2020,2,0,1,Imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,90046515,,,0
+866,HS,2020,202006,June 2020,2,0,2,Exports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,79475002,,,0
+867,HS,2020,202006,June 2020,2,0,4,Re-imports,705,Slovenia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109750,,,0
+868,HS,2020,202001,January 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,109129654,,,0
+869,HS,2020,202001,January 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,405629357,,,0
+870,HS,2020,202001,January 2020,2,0,3,Re-exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,370523,,,0
+871,HS,2020,202001,January 2020,2,0,4,Re-imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62667,,,0
+872,HS,2020,202002,February 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,71327988,,,0
+873,HS,2020,202002,February 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,365218280,,,0
+874,HS,2020,202002,February 2020,2,0,3,Re-exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,197018,,,0
+875,HS,2020,202002,February 2020,2,0,4,Re-imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10069,,,0
+876,HS,2020,202003,March 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,68507856,,,0
+877,HS,2020,202003,March 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,379272220,,,0
+878,HS,2020,202003,March 2020,2,0,3,Re-exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,211855,,,0
+879,HS,2020,202003,March 2020,2,0,4,Re-imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,273056,,,0
+880,HS,2020,202004,April 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62671889,,,0
+881,HS,2020,202004,April 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,92492868,,,0
+882,HS,2020,202004,April 2020,2,0,3,Re-exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,23794,,,0
+883,HS,2020,202004,April 2020,2,0,4,Re-imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1113,,,0
+884,HS,2020,202005,May 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,71681158,,,0
+885,HS,2020,202005,May 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,336419117,,,0
+886,HS,2020,202005,May 2020,2,0,4,Re-imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6468,,,0
+887,HS,2020,202006,June 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,49802517,,,0
+888,HS,2020,202006,June 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,339979376,,,0
+889,HS,2020,202006,June 2020,2,0,3,Re-exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2332,,,0
+890,HS,2020,202006,June 2020,2,0,4,Re-imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,263529,,,0
+891,HS,2020,202007,July 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62701235,,,0
+892,HS,2020,202007,July 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,279221044,,,0
+893,HS,2020,202007,July 2020,2,0,3,Re-exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2764,,,0
+894,HS,2020,202007,July 2020,2,0,4,Re-imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,42316,,,0
+895,HS,2020,202008,August 2020,2,0,1,Imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,69267698,,,0
+896,HS,2020,202008,August 2020,2,0,2,Exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,262971287,,,0
+897,HS,2020,202008,August 2020,2,0,3,Re-exports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,454019,,,0
+898,HS,2020,202008,August 2020,2,0,4,Re-imports,710,South Africa,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,31415,,,0
+899,HS,2020,202001,January 2020,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7913191,,,0
+900,HS,2020,202001,January 2020,2,0,2,Exports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,24633110,,,0
+901,HS,2020,202002,February 2020,2,0,1,Imports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11663988,,,0
+902,HS,2020,202002,February 2020,2,0,2,Exports,716,Zimbabwe,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14613042,,,0
+903,HS,2020,202001,January 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,744903123,,,0
+904,HS,2020,202001,January 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,560875587,,,0
+905,HS,2020,202001,January 2020,2,0,3,Re-exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,439144,,,0
+906,HS,2020,202002,February 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,726957525,,,0
+907,HS,2020,202002,February 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,594914994,,,0
+908,HS,2020,202002,February 2020,2,0,3,Re-exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2602839,,,0
+909,HS,2020,202002,February 2020,2,0,4,Re-imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,168902,,,0
+910,HS,2020,202003,March 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,680345395,,,0
+911,HS,2020,202003,March 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,545498185,,,0
+912,HS,2020,202003,March 2020,2,0,3,Re-exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7996584,,,0
+913,HS,2020,202003,March 2020,2,0,4,Re-imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,325114,,,0
+914,HS,2020,202004,April 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,523270854,,,0
+915,HS,2020,202004,April 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,394717157,,,0
+916,HS,2020,202004,April 2020,2,0,3,Re-exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,667031,,,0
+917,HS,2020,202004,April 2020,2,0,4,Re-imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,315399,,,0
+918,HS,2020,202005,May 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,527099661,,,0
+919,HS,2020,202005,May 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,444122332,,,0
+920,HS,2020,202005,May 2020,2,0,3,Re-exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,2269385,,,0
+921,HS,2020,202005,May 2020,2,0,4,Re-imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,79165,,,0
+922,HS,2020,202006,June 2020,2,0,1,Imports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,548888141,,,0
+923,HS,2020,202006,June 2020,2,0,2,Exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,477722705,,,0
+924,HS,2020,202006,June 2020,2,0,3,Re-exports,724,Spain,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,404375,,,0
+925,HS,2020,202001,January 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,329250069,,,0
+926,HS,2020,202001,January 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,557183251,,,0
+927,HS,2020,202002,February 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,319162143,,,0
+928,HS,2020,202002,February 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,509852894,,,0
+929,HS,2020,202003,March 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,334287461,,,0
+930,HS,2020,202003,March 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,554643501,,,0
+931,HS,2020,202004,April 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,259021834,,,0
+932,HS,2020,202004,April 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,486367493,,,0
+933,HS,2020,202005,May 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,256374237,,,0
+934,HS,2020,202005,May 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,432285554,,,0
+935,HS,2020,202006,June 2020,2,0,1,Imports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,251529497,,,0
+936,HS,2020,202006,June 2020,2,0,2,Exports,752,Sweden,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,462027803,,,0
+937,HS,2020,202001,January 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,185762978,,,0
+938,HS,2020,202001,January 2020,2,0,2,Exports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,84522250,,,0
+939,HS,2020,202002,February 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,193527622,,,0
+940,HS,2020,202002,February 2020,2,0,2,Exports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,84783196,,,0
+941,HS,2020,202003,March 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,205344879,,,0
+942,HS,2020,202003,March 2020,2,0,2,Exports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,82195233,,,0
+943,HS,2020,202004,April 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,154707210,,,0
+944,HS,2020,202004,April 2020,2,0,2,Exports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,59122475,,,0
+945,HS,2020,202005,May 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,164516770,,,0
+946,HS,2020,202005,May 2020,2,0,2,Exports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,66584599,,,0
+947,HS,2020,202006,June 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,171972361,,,0
+948,HS,2020,202006,June 2020,2,0,2,Exports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,73752142,,,0
+949,HS,2020,202007,July 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,179319385,,,0
+950,HS,2020,202007,July 2020,2,0,2,Exports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,86430476,,,0
+951,HS,2020,202008,August 2020,2,0,1,Imports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,136534893,,,0
+952,HS,2020,202008,August 2020,2,0,2,Exports,757,Switzerland,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,50819873,,,0
+953,HS,2020,202001,January 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1370598271,,,0
+954,HS,2020,202001,January 2020,2,0,2,Exports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,781647566,,,0
+955,HS,2020,202001,January 2020,2,0,3,Re-exports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,540602337,,,0
+956,HS,2020,202002,February 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1203148772,,,0
+957,HS,2020,202002,February 2020,2,0,2,Exports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,702884187,,,0
+958,HS,2020,202002,February 2020,2,0,3,Re-exports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,459307384,,,0
+959,HS,2020,202003,March 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1274478941,,,0
+960,HS,2020,202003,March 2020,2,0,2,Exports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,669076576,,,0
+961,HS,2020,202003,March 2020,2,0,3,Re-exports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,445685782,,,0
+962,HS,2020,202004,April 2020,2,0,1,Imports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1021430201,,,0
+963,HS,2020,202004,April 2020,2,0,2,Exports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,653788193,,,0
+964,HS,2020,202004,April 2020,2,0,3,Re-exports,792,Turkey,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,410302279,,,0
+965,HS,2020,202001,January 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64594410,,,0
+966,HS,2020,202001,January 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,713282328,,,0
+967,HS,2020,202002,February 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,73654137,,,0
+968,HS,2020,202002,February 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,682386224,,,0
+969,HS,2020,202003,March 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,84604264,,,0
+970,HS,2020,202003,March 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,662488855,,,0
+971,HS,2020,202004,April 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,73453671,,,0
+972,HS,2020,202004,April 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,629825034,,,0
+973,HS,2020,202005,May 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,80364782,,,0
+974,HS,2020,202005,May 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,601514031,,,0
+975,HS,2020,202006,June 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,86585942,,,0
+976,HS,2020,202006,June 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,604111867,,,0
+977,HS,2020,202007,July 2020,2,0,1,Imports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,93500868,,,0
+978,HS,2020,202007,July 2020,2,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,618513817,,,0
+979,HS,2020,202001,January 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,41498705,,,0
+980,HS,2020,202001,January 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,46737130,,,0
+981,HS,2020,202002,February 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,32895635,,,0
+982,HS,2020,202002,February 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,47860760,,,0
+983,HS,2020,202003,March 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,28510477,,,0
+984,HS,2020,202003,March 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,36789488,,,0
+985,HS,2020,202004,April 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,30679616,,,0
+986,HS,2020,202004,April 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,34601918,,,0
+987,HS,2020,202005,May 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,30844296,,,0
+988,HS,2020,202005,May 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,39403976,,,0
+989,HS,2020,202006,June 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,36519274,,,0
+990,HS,2020,202006,June 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,42763906,,,0
+991,HS,2020,202007,July 2020,2,0,1,Imports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,43810966,,,0
+992,HS,2020,202007,July 2020,2,0,2,Exports,807,TFYR of Macedonia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,44956273,,,0
+993,HS,2020,202001,January 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,262685419,,,0
+994,HS,2020,202001,January 2020,2,0,2,Exports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,40567086,,,0
+995,HS,2020,202002,February 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,233276845,,,0
+996,HS,2020,202002,February 2020,2,0,2,Exports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,59342347,,,0
+997,HS,2020,202003,March 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,286212366,,,0
+998,HS,2020,202003,March 2020,2,0,2,Exports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,27478694,,,0
+999,HS,2020,202004,April 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,239513592,,,0
+1000,HS,2020,202004,April 2020,2,0,2,Exports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,40924953,,,0
+1001,HS,2020,202005,May 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,263143278,,,0
+1002,HS,2020,202005,May 2020,2,0,2,Exports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25751838,,,0
+1003,HS,2020,202006,June 2020,2,0,1,Imports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,257271077,,,0
+1004,HS,2020,202006,June 2020,2,0,2,Exports,818,Egypt,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,44469382,,,0
+1005,HS,2020,202001,January 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,431729168,,,0
+1006,HS,2020,202001,January 2020,2,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,477616322,,,0
+1007,HS,2020,202001,January 2020,2,0,3,Re-exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,54668,,,0
+1008,HS,2020,202001,January 2020,2,0,4,Re-imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,15230,,,0
+1009,HS,2020,202002,February 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,372983800,,,0
+1010,HS,2020,202002,February 2020,2,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,442048413,,,0
+1011,HS,2020,202002,February 2020,2,0,3,Re-exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,178688,,,0
+1012,HS,2020,202002,February 2020,2,0,4,Re-imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,232620,,,0
+1013,HS,2020,202003,March 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,371728257,,,0
+1014,HS,2020,202003,March 2020,2,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,528308554,,,0
+1015,HS,2020,202003,March 2020,2,0,3,Re-exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,226189,,,0
+1016,HS,2020,202003,March 2020,2,0,4,Re-imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,149363,,,0
+1017,HS,2020,202004,April 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,287063691,,,0
+1018,HS,2020,202004,April 2020,2,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,404281389,,,0
+1019,HS,2020,202004,April 2020,2,0,3,Re-exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,123968,,,0
+1020,HS,2020,202004,April 2020,2,0,4,Re-imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,22179,,,0
+1021,HS,2020,202005,May 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,270836942,,,0
+1022,HS,2020,202005,May 2020,2,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,299872220,,,0
+1023,HS,2020,202005,May 2020,2,0,3,Re-exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,111359,,,0
+1024,HS,2020,202005,May 2020,2,0,4,Re-imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,12192,,,0
+1025,HS,2020,202006,June 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,269429072,,,0
+1026,HS,2020,202006,June 2020,2,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,414146590,,,0
+1027,HS,2020,202006,June 2020,2,0,3,Re-exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,106488,,,0
+1028,HS,2020,202006,June 2020,2,0,4,Re-imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,25725,,,0
+1029,HS,2020,202008,August 2020,2,0,1,Imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,288297048,,,0
+1030,HS,2020,202008,August 2020,2,0,2,Exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,370231671,,,0
+1031,HS,2020,202008,August 2020,2,0,3,Re-exports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,42311,,,0
+1032,HS,2020,202008,August 2020,2,0,4,Re-imports,826,United Kingdom,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,64768,,,0
+1033,HS,2020,202001,January 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1973588484,,,0
+1034,HS,2020,202001,January 2020,2,0,2,Exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1115138983,,,0
+1035,HS,2020,202001,January 2020,2,0,3,Re-exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,44506104,,,0
+1036,HS,2020,202002,February 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1576682485,,,0
+1037,HS,2020,202002,February 2020,2,0,2,Exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1142821108,,,0
+1038,HS,2020,202002,February 2020,2,0,3,Re-exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,44046341,,,0
+1039,HS,2020,202003,March 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1805883778,,,0
+1040,HS,2020,202003,March 2020,2,0,2,Exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,1118134794,,,0
+1041,HS,2020,202003,March 2020,2,0,3,Re-exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,48135315,,,0
+1042,HS,2020,202004,April 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1641856158,,,0
+1043,HS,2020,202004,April 2020,2,0,2,Exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,824557754,,,0
+1044,HS,2020,202004,April 2020,2,0,3,Re-exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,35323164,,,0
+1045,HS,2020,202005,May 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1677761978,,,0
+1046,HS,2020,202005,May 2020,2,0,2,Exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,771306314,,,0
+1047,HS,2020,202005,May 2020,2,0,3,Re-exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25439702,,,0
+1048,HS,2020,202006,June 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1364787296,,,0
+1049,HS,2020,202006,June 2020,2,0,2,Exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,797144018,,,0
+1050,HS,2020,202006,June 2020,2,0,3,Re-exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,32693222,,,0
+1051,HS,2020,202007,July 2020,2,0,1,Imports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1542260719,,,0
+1052,HS,2020,202007,July 2020,2,0,2,Exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,925372567,,,0
+1053,HS,2020,202007,July 2020,2,0,3,Re-exports,842,United States of America,,0,World,,,,,,,,,72,Iron and steel,,,,,,,,,33528061,,,0
+1054,HS,2020,202001,January 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,88924651,,,0
+1055,HS,2020,202001,January 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,858069,,,0
+1056,HS,2020,202001,January 2020,2,0,3,Re-exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14,,,0
+1057,HS,2020,202002,February 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,92403392,,,0
+1058,HS,2020,202002,February 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,7963818,,,0
+1059,HS,2020,202003,March 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,110377903,,,0
+1060,HS,2020,202003,March 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,2664106,,,0
+1061,HS,2020,202003,March 2020,2,0,3,Re-exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1380,,,0
+1062,HS,2020,202004,April 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,126668341,,,0
+1063,HS,2020,202004,April 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,807798,,,0
+1064,HS,2020,202005,May 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,75119639,,,0
+1065,HS,2020,202005,May 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,1635136,,,0
+1066,HS,2020,202007,July 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,104764913,,,0
+1067,HS,2020,202007,July 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,11885326,,,0
+1068,HS,2020,202008,August 2020,2,0,1,Imports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,97845462,,,0
+1069,HS,2020,202008,August 2020,2,0,2,Exports,860,,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,14775078,,,0
+1070,HS,2020,202001,January 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,13003174,,,0
+1071,HS,2020,202001,January 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,5604878,,,0
+1072,HS,2020,202001,January 2020,2,0,3,Re-exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,25105,,,0
+1073,HS,2020,202002,February 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,10634485,,,0
+1074,HS,2020,202002,February 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6628925,,,0
+1075,HS,2020,202002,February 2020,2,0,3,Re-exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,62368,,,0
+1076,HS,2020,202003,March 2020,2,0,1,Imports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,12561230,,,0
+1077,HS,2020,202003,March 2020,2,0,2,Exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,6426774,,,0
+1078,HS,2020,202003,March 2020,2,0,3,Re-exports,894,Zambia,,0,World,,,,,,,,,72,Iron and steel,,,,,,,0.0,,39874,,,0
